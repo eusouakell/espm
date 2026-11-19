@@ -19,13 +19,13 @@ related:
 
 ## Em uma frase
 
-A LLM wiki da PopKore acabou de ser instanciada: a fundação e as seções existem, mas a tese é
-rascunho e o conteúdo da marca ainda está vazio.
+A LLM wiki da PopKore está instanciada e a tese foi aprovada; o conteúdo da marca ainda está
+vazio.
 
 ## Frentes ativas
 
-- **Fundação da marca**: tese, léxico e entidades em rascunho. Próximo gate: a fundadora
-  revisa a [tese](docs/01-base/01_tese.md) e muda para `status: active`.
+- **Fundação da marca**: [tese](docs/01-base/01_tese.md) ativa; léxico e entidades em
+  rascunho. Próximo gate: a fundadora revisa o [léxico](docs/01-base/02_lexico.md).
 - **Conteúdo da marca**: quatro seções criadas e vazias. Próximo gate: primeira nota de
   posicionamento e voz em [marca/](docs/02-conteudo/marca/00_mapa.md).
 
@@ -49,5 +49,5 @@ rascunho e o conteúdo da marca ainda está vazio.
 
 ## Próxima revisão
 
-- **Data ou gatilho:** quando a tese for revisada
+- **Data ou gatilho:** quando a primeira nota de marca existir
 - **Responsável:** fundadora

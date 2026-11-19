@@ -4,7 +4,7 @@ type: thesis
 category: core
 title: Tese da PopKore
 summary: A ideia central que organiza a marca e tudo nesta base.
-status: draft
+status: active
 authority: canonical
 audience: [fundadora, agentes]
 owner: fundadora
@@ -17,9 +17,6 @@ related:
 ---
 
 # Tese
-
-> Rascunho escrito a partir da descrição da fundadora. Revise com as suas palavras; enquanto
-> estiver `status: draft`, agentes devem tratar a tese como direção, não como texto final.
 
 ## Em uma frase
 
@@ -35,7 +32,7 @@ abandono, não organização.
 A PopKore assume outra posição. O caos não é o problema a eliminar: é a matéria-prima. A
 marca é feita por uma neurodivergente e oferece estruturas leves, como templates de Notion,
 cursos rápidos e infoprodutos, que acomodam o jeito como essas pessoas já pensam, com
-estética pop e sem tom de sermão.
+estética pop especialmente pensada para ativar os seus neurotransmissores.
 
 ## O que decorre da tese
 
