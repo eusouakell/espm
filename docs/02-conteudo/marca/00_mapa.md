@@ -22,8 +22,9 @@ related:
 
 ## Notas desta seção
 
-_Ainda vazia._ Sugestões de primeiras notas:
+- [Identidade visual](03_identidade-visual.md): a logo, o que ela comunica e a paleta observada
+
+Próximas notas sugeridas:
 
 - `01_posicionamento.md`: para quem, contra o quê, por que a PopKore
 - `02_voz-e-tom.md`: como a marca fala (e como não fala)
-- `03_identidade-visual.md`: cores, tipografia, referências estéticas

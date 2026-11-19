@@ -23,7 +23,8 @@ related:
 ## Termos
 
 ### PopKore
-A marca. Escreve-se assim: P e K maiúsculos, tudo junto.
+A marca. Escreve-se assim: P e K maiúsculos, tudo junto. O nome junta *pop* (pipoca, cultura
+pop) e *core* (o cérebro, a mente), como mostra a [logo](../02-conteudo/marca/03_identidade-visual.md).
 
 ### Caos criativo organizado
 O conceito central da marca (ver [tese](01_tese.md)). Não é "acabar com a bagunça": é dar
