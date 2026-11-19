@@ -1,9 +1,16 @@
 ---
+id: "kb.base.entidades"
 type: reference
-title: Entidades
-description: Pessoas, produtos, projetos e lugares relevantes ao objeto da KB.
+category: core
+title: Entidades da PopKore
+summary: Pessoas, linhas de produto e frentes relevantes para a marca.
+status: draft
+authority: canonical
+audience: [fundadora, agentes]
+owner: fundadora
+last_reviewed: 2026-11-19
+order: 3
 tags: [entidades, pessoas, projetos]
-timestamp: 2026-06-23
 related:
   - 00_mapa.md
   - 02_lexico.md
@@ -11,51 +18,37 @@ related:
 
 # Entidades e fontes canônicas
 
-> O elenco do seu objeto. Ajuda humanos e agentes a desambiguar nomes, entender quem/o quê
-> está em jogo e localizar onde cada mudança deve ser feita.
-
-> **Atenção à privacidade:** se a base é pública ou semi-pública, não inclua dados sensíveis
-> de pessoas. Veja a regra de privacidade no seu [mapa](00_mapa.md).
+> **Privacidade:** nada de dados pessoais de clientes, parceiros ou alunos aqui (LGPD/GDPR).
+> Pessoas entram só pelo papel.
 
 ## Pessoas
 
-- **<Nome>** — <papel; o que faz; relação com o objeto>
+- **Fundadora**: criadora e dona da PopKore, neurodivergente, aluna da ESPM. Decide sobre
+  marca, produto e esta base.
 
 ## Projetos / frentes
 
-- **<Projeto>** — <descrição curta; estado>
+- **Instanciação da LLM wiki**: transformar esta semente na base da PopKore. Estado: em
+  andamento (ver [STATE](../../STATE.md)).
 
 ## Produtos / ativos
 
-- **<Produto>** — <descrição curta>
+- **Templates de Notion**: linha de produto (ver [produtos](../02-conteudo/produtos/00_mapa.md)).
+- **Cursos rápidos**: linha de produto.
+- **Infoprodutos**: linha de produto.
 
-## Contrato para entidades operacionais
-
-Quando uma entidade tem repo, operação própria ou aparece em mais de uma base, registre:
-
-| Campo | Pergunta que responde |
-| --- | --- |
-| `nature` | é projeto, produto, empresa, formação, superfície ou laboratório? |
-| `origin` | onde nasceu? |
-| `owner` | quem decide hoje? |
-| `canonical_repo` | onde mudanças devem entrar? |
-| `mirrors_or_forks` | quais cópias ou derivados existem? |
-| `stage` | em que estágio está? |
-| `next_gate` | qual decisão ou evidência permite avançar? |
-
-Exemplo:
+## Registro operacional
 
 ```yaml
-- name: <Nome da entidade>
-  nature: projeto
-  origin: <base ou organização de origem>
-  owner: <responsável>
-  canonical_repo: <URL ou caminho>
+- name: PopKore
+  nature: empresa
+  origin: projeto da fundadora, durante curso na ESPM
+  owner: fundadora
+  canonical_repo: https://github.com/eusouakell/espm
   mirrors_or_forks: []
-  stage: active
-  next_gate: <marco verificável>
+  stage: early
+  next_gate: tese revisada e primeiro produto definido
 ```
 
-Ter pasta, site ou fork não define ownership. Se duas bases mencionam a mesma entidade, uma
-delas deve ser canônica e as demais devem apontar para ela. Veja
+Se outra base mencionar a PopKore, esta é a fonte canônica. Veja
 [interoperabilidade entre bases](../09-operacao/06_interoperabilidade-entre-bases.md).

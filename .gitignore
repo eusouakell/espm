@@ -6,3 +6,11 @@ data/
 *.mp3
 *.mp4
 *.wav
+
+# PopKore: dados que nunca entram no Git (LGPD/GDPR, financeiro, clientes)
+privado/
+exports/
+financeiro/
+clientes/
+*.csv
+*.xlsx

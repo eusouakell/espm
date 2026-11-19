@@ -1,39 +1,46 @@
 ---
+id: "kb.base.tese"
 type: thesis
-title: Tese
-description: A ideia central que organiza tudo nesta base.
+category: core
+title: Tese da PopKore
+summary: A ideia central que organiza a marca e tudo nesta base.
+status: draft
+authority: canonical
+audience: [fundadora, agentes]
+owner: fundadora
+last_reviewed: 2026-11-19
+order: 1
 tags: [tese, fundacao]
-timestamp: 2026-06-23
 related:
   - 00_mapa.md
+  - 02_lexico.md
 ---
 
 # Tese
 
-> A tese é a frase que, se mudasse, mudaria tudo o que está nesta KB. Escreva-a primeiro.
+> Rascunho escrito a partir da descrição da fundadora. Revise com as suas palavras; enquanto
+> estiver `status: draft`, agentes devem tratar a tese como direção, não como texto final.
 
 ## Em uma frase
 
-<A ideia central do seu objeto, em uma frase memorável.>
+**Caos criativo organizado:** ferramentas e cursos curtos que ajudam cabeças inquietas a dar
+forma às próprias ideias sem apagar o que elas têm de caótico.
 
 ## Por extenso
 
-<Dois ou três parágrafos: o problema que existe no mundo, a posição que você assume diante
-dele, e por que isso importa agora. Evite jargão. Escreva para alguém que chega sem contexto.>
+Muita ferramenta de produtividade parte de uma mente linear e pede disciplina e rotina rígida.
+Para pessoas neurodivergentes, criativas e "descoladas", esse modelo costuma gerar culpa e
+abandono, não organização.
+
+A PopKore assume outra posição. O caos não é o problema a eliminar: é a matéria-prima. A
+marca é feita por uma neurodivergente e oferece estruturas leves, como templates de Notion,
+cursos rápidos e infoprodutos, que acomodam o jeito como essas pessoas já pensam, com
+estética pop e sem tom de sermão.
 
 ## O que decorre da tese
 
-- <consequência ou aposta 1>
-- <consequência ou aposta 2>
-- <consequência ou aposta 3>
-
----
-
-### Exemplo (apague ao instanciar)
-
-> **Em uma frase:** conhecimento durável precisa morar em arquivos simples e versionados, não
-> em plataformas que somem.
->
-> **Por extenso:** ferramentas de conhecimento mudam a cada poucos anos e levam o contexto
-> embora. Markdown em Git é portátil, diffável e legível por humanos e agentes — então
-> tratamos a KB como código: revisada por PR, com histórico e autoria.
+- Produtos curtos e práticos: resultado rápido vale mais que método completo.
+- Linguagem de igual para igual, com humor e referência pop; nada de "guru da produtividade".
+- A vivência neurodivergente da fundadora é parte da autoridade da marca.
+- Organização flexível: todo produto deve funcionar mesmo quando a pessoa some por semanas e
+  volta.

@@ -38,8 +38,14 @@ Mantenha abaixo a lista de agentes que interagem com esta KB e como.
 
 | Agente | Modelo / versão | Prefixo de branch | Papel |
 | --- | --- | --- | --- |
-| <ex.: Claude> | <claude-opus-4-8> | `claude/*` | <edição, ingestão, revisão> |
-| <ex.: Codex> | <gpt-5> | `codex/*` | <...> |
+| Claude | Claude (Anthropic) | `claude/*` | edição, ingestão, revisão |
+| ChatGPT / Codex | OpenAI | `codex/*` | edição, criação de conteúdo |
+| Gemini | Google | `gemini/*` | edição, pesquisa |
+| Jev | TypeSafe | `jev/*` | julgamentos estruturados, classificação |
+| Cursor / outros | variado | `<agente>/*` | edição |
+
+Como o fluxo é commit direto na `main`, o prefixo de branch só vale quando alguém abrir PR; o
+trailer `Co-Authored-By:` é obrigatório sempre.
 
 ## Regras de trabalho dos agentes
 

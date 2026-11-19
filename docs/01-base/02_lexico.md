@@ -1,9 +1,16 @@
 ---
+id: "kb.base.lexico"
 type: glossary
-title: Léxico
-description: Os termos próprios do objeto e o que cada um significa aqui dentro.
+category: core
+title: Léxico da PopKore
+summary: Os termos próprios da marca e o que cada um significa aqui dentro.
+status: draft
+authority: canonical
+audience: [fundadora, agentes]
+owner: fundadora
+last_reviewed: 2026-11-19
+order: 2
 tags: [lexico, glossario, linguagem]
-timestamp: 2026-06-23
 related:
   - 00_mapa.md
   - 03_entidades.md
@@ -11,20 +18,32 @@ related:
 
 # Léxico
 
-> Palavras que você usa de um jeito específico. Definir o léxico evita que duas pessoas (ou
-> dois agentes) entendam o mesmo termo de formas diferentes. Mantenha curto e vivo.
+> Palavras que a PopKore usa de um jeito específico. Mantenha curto e vivo.
 
 ## Termos
 
-### <Termo>
-<Definição em uma ou duas frases. O que é, e — quando útil — o que NÃO é.>
+### PopKore
+A marca. Escreve-se assim: P e K maiúsculos, tudo junto.
 
-### <Termo>
-<Definição.>
+### Caos criativo organizado
+O conceito central da marca (ver [tese](01_tese.md)). Não é "acabar com a bagunça": é dar
+estrutura leve a uma mente criativa sem domesticá-la.
 
----
+### Pessoas descoladas
+O público da PopKore: criativas, curiosas, muitas vezes neurodivergentes, que rejeitam
+produtividade engessada. Detalhes em [público](../02-conteudo/publico/00_mapa.md).
 
-### Exemplo (apague ao instanciar)
+### Neurodivergente
+Pessoa cujo funcionamento cognitivo difere do considerado típico (por exemplo, TDAH ou
+autismo). Na PopKore é lugar de fala da fundadora e lente de produto, nunca rótulo para o
+cliente.
 
-> **KB operacional** — camada privada de leitura e direção de uma pessoa. Não confundir com a
-> **KB coletiva**, que é o conhecimento já assumido pela organização.
+### Infoproduto
+Produto digital vendido pela marca: e-book, guia, kit, workshop gravado.
+
+### Curso rápido
+Formato curto e direto ao ponto, que dá para concluir em pouco tempo. Não é um curso longo
+com módulos e trilhas.
+
+### Template de Notion
+Página ou sistema pronto para duplicar no Notion e usar já adaptado ao jeito PopKore.

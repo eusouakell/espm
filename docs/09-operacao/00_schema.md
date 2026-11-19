@@ -16,7 +16,9 @@ related:
 Todo documento estrutural começa com um bloco de **frontmatter** YAML. Ele torna a base
 buscável, filtrável e consumível por agentes sem perder a simplicidade do Markdown.
 
-Há dois níveis. **Comece pelo leve.** Enriqueça só quando a dor aparecer.
+Há dois níveis. **A PopKore adotou o schema rico (Nível 2)**: toda nota estrutural nova usa
+os campos `id`, `type`, `category`, `title`, `summary`, `status`, `authority`, `audience`,
+`owner`, `last_reviewed` e `related`. O Nível 1 fica documentado como referência.
 
 ## Nível 1 — OKF leve (padrão recomendado)
 

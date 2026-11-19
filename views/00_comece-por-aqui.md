@@ -2,7 +2,7 @@
 type: view
 title: Começar por aqui
 description: Trilha de leitura para quem está chegando agora.
-audience: [novo-leitor, humano]
+audience: [fundadora]
 timestamp: 2026-06-23
 related:
   - ../docs/01-base/00_mapa.md
@@ -10,10 +10,7 @@ related:
 
 # Começar por aqui
 
-> Uma **view** é uma trilha de leitura, não uma pasta. Ela atravessa a estrutura para entregar
-> um percurso pronto a um público específico. Crie quantas precisar (uma por audiência).
-
-Esta trilha é para quem chega agora e quer entender rápido o que é esta KB.
+Trilha para entender rápido a PopKore e onde cada coisa mora.
 
 ## Trilha recomendada
 
@@ -21,6 +18,8 @@ Esta trilha é para quem chega agora e quer entender rápido o que é esta KB.
 2. [Tese](../docs/01-base/01_tese.md)
 3. [Léxico](../docs/01-base/02_lexico.md)
 4. [Mapa de conteúdo](../docs/02-conteudo/00_mapa.md)
+5. [Marca](../docs/02-conteudo/marca/00_mapa.md)
+6. [Estado atual](../STATE.md)
 
 ## Quando usar esta view
 

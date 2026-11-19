@@ -1,34 +1,34 @@
 ---
+id: "kb.conteudo.mapa"
 type: map
+category: content
 title: Mapa de conteúdo
-description: Onde mora o conhecimento do objeto. Você define as seções desta pasta.
+summary: Onde mora o conhecimento da marca PopKore.
+status: active
+authority: canonical
+audience: [fundadora, agentes]
+owner: fundadora
+last_reviewed: 2026-11-19
+order: 0
 tags: [mapa, conteudo]
-timestamp: 2026-06-23
 related:
   - ../01-base/00_mapa.md
 ---
 
 # Mapa de conteúdo
 
-Esta é a pasta onde vive o conhecimento do **seu objeto**. Diferente de `01-base/` (a
-fundação) e `09-operacao/` (a governança da base), aqui o conteúdo varia conforme o que a KB
-representa.
+O conhecimento da PopKore, por área:
 
-## Crie as suas seções
-
-Crie uma subpasta por grande área do seu objeto. Cada subpasta começa com um `00_mapa.md`
-próprio listando seus arquivos. Exemplos por tipo de KB:
-
-| Tipo de KB | Seções típicas em `02-conteudo/` |
+| Seção | O que mora lá |
 | --- | --- |
-| Empresa | `produtos/`, `tecnologia/`, `mensagens/`, `casos/` |
-| Curso | `programa/`, `conceitos/`, `materiais/`, `referencias/` |
-| Home-lab / pessoal | `infra/`, `servicos/`, `acervo/`, `rotina/` |
-| Cliente / consultoria | `contexto/`, `decisoes/`, `entregaveis/` |
+| [marca/](marca/00_mapa.md) | identidade, posicionamento, voz e tom, estética visual: o brand book vivo |
+| [produtos/](produtos/00_mapa.md) | templates de Notion, cursos rápidos e infoprodutos: promessa e estado de cada um |
+| [publico/](publico/00_mapa.md) | quem são as pessoas descoladas: personas, dores e linguagem |
+| [conteudo-e-canais/](conteudo-e-canais/00_mapa.md) | redes, pilares de conteúdo, calendário e lançamentos |
 
 ## Regra de uma seção boa
 
 - tem um `00_mapa.md` que lista o que há nela e em que ordem ler;
-- cada arquivo tem frontmatter com `type` (ver [schema](../09-operacao/00_schema.md));
+- cada arquivo tem frontmatter rico (ver [schema](../09-operacao/00_schema.md));
 - links relativos entre arquivos relacionados;
-- nada de dado bruto sensível — isso fica fora do Git.
+- nada de preço, dado financeiro ou dado de cliente: isso fica fora do Git.
