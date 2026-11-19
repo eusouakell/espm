@@ -4,7 +4,7 @@ type: glossary
 category: core
 title: Léxico da PopKore
 summary: Os termos próprios da marca e o que cada um significa aqui dentro.
-status: draft
+status: active
 authority: canonical
 audience: [fundadora, agentes]
 owner: fundadora

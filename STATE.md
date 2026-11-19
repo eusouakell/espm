@@ -24,8 +24,9 @@ vazio.
 
 ## Frentes ativas
 
-- **Fundação da marca**: [tese](docs/01-base/01_tese.md) ativa; léxico e entidades em
-  rascunho. Próximo gate: a fundadora revisa o [léxico](docs/01-base/02_lexico.md).
+- **Fundação da marca**: [tese](docs/01-base/01_tese.md) e [léxico](docs/01-base/02_lexico.md)
+  ativos; entidades em rascunho. Próximo gate: a fundadora revisa as
+  [entidades](docs/01-base/03_entidades.md).
 - **Conteúdo da marca**: quatro seções criadas e vazias. Próximo gate: primeira nota de
   posicionamento e voz em [marca/](docs/02-conteudo/marca/00_mapa.md).
 
