@@ -22,7 +22,7 @@ related:
 
 ## Notas desta seção
 
-- [Identidade visual](03_identidade-visual.md): logo, nome, paleta, tipografia (proposta) e regras de uso
+- [Identidade visual](03_identidade-visual.md): logo, nome, paleta, tipografia e regras de uso
 
 Próximas notas sugeridas:
 

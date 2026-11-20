@@ -19,8 +19,7 @@ related:
 
 # Identidade visual
 
-> Logo, cores e regras de uso. A paleta foi medida nos pixels da logo. A **tipografia** é uma
-> proposta, a confirmar pela fundadora.
+> Logo, cores, tipografia e regras de uso. A paleta foi medida nos pixels da logo.
 
 ## Logo
 
@@ -65,7 +64,7 @@ O vermelho `#FF0000` sobre creme `#E3E0CC` tem contraste baixo para texto corrid
 branco, 4:1). Use essa dupla só no nome e em títulos grandes. Para texto corrido, prefira
 `#170003` sobre creme ou sobre branco.
 
-## Tipografia (proposta)
+## Tipografia
 
 | Uso | Fonte | Por quê |
 | --- | --- | --- |
@@ -114,5 +113,5 @@ imagens PNG embutidas. Guarde-o fora do repositório.
 - [x] versão só com o nome, para cabeçalhos e espaços pequenos
 - [x] medir a paleta exata
 - [x] regras de uso: área de proteção, tamanho mínimo, fundos permitidos
-- [ ] confirmar a tipografia proposta
+- [x] tipografia confirmada pela fundadora (2026-11-19)
 - [ ] para impressão grande: redesenhar a logo à mão em vetor (designer ou Inkscape)
