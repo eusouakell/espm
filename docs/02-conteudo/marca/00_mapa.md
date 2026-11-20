@@ -22,10 +22,7 @@ related:
 
 ## Notas desta seção
 
-- [Voz e tom](02_voz-e-tom.md): como a marca fala, como não fala e o tom por canal
-- [Identidade visual](03_identidade-visual.md): logo, nome, paleta, tipografia e regras de uso
-- [Quadro de evidências](04_quadro-de-evidencias.md): quem é a fundadora e o que é a PopKore, ligados por fio vermelho
-
-Próximas notas sugeridas:
-
-- `01_posicionamento.md`: para quem, contra o quê, por que a PopKore
+1. [Posicionamento](01_posicionamento.md): para quem, que problema resolve, por que a PopKore e a promessa
+2. [Voz e tom](02_voz-e-tom.md): como a marca fala, como não fala e o tom por canal
+3. [Identidade visual](03_identidade-visual.md): logo, nome, paleta, tipografia e regras de uso
+4. [Quadro de evidências](04_quadro-de-evidencias.md): quem é a fundadora e o que é a PopKore, ligados por fio vermelho
