@@ -4,7 +4,7 @@ type: reference
 category: content
 title: Voz e tom
 summary: Como a PopKore fala, como não fala e como adaptar o tom a cada canal.
-status: draft
+status: active
 authority: canonical
 audience: [fundadora, agentes]
 owner: fundadora
@@ -19,9 +19,6 @@ related:
 ---
 
 # Voz e tom
-
-> As regras desta nota são decisões da fundadora. Os exemplos foram escritos pelo Claude
-> para ilustrar as regras e devem ser revisados.
 
 A **voz** é quem a PopKore é: não muda. O **tom** é como essa voz se ajusta ao canal e ao
 momento.
@@ -71,6 +68,16 @@ total e escassez falsa.
 - **Nunca no lugar de uma palavra** ("estou 🔥 com isso"). Leitores de tela leem o nome do
   emoji e a frase perde o sentido.
 - Emoji não carrega informação essencial: se for removido, a frase continua completa.
+
+### Emojis de assinatura
+
+Os emojis preferidos da PopKore são os dois elementos da logo:
+
+- 🍿 **pipoca**: o lado *pop*;
+- 🧠 **cérebro**: o lado *core*.
+
+Use **um ou outro** como assinatura, no fim de um post, de uma legenda ou de um e-mail.
+**Nunca os dois juntos**, nem em sequência.
 
 | Canal | Uso de emoji |
 | --- | --- |

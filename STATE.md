@@ -28,8 +28,8 @@ vazio.
   ativos; entidades em rascunho. Próximo gate: a fundadora revisa as
   [entidades](docs/01-base/03_entidades.md).
 - **Conteúdo da marca**: [identidade visual](docs/02-conteudo/marca/03_identidade-visual.md)
-  ativa; [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) em rascunho. Próximo gate: a
-  fundadora revisa a voz e tom; depois, posicionamento.
+  e [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) ativas; quadro de evidências criado.
+  Próximo gate: posicionamento.
 
 ## Decisões vigentes
 

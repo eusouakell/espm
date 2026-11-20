@@ -24,6 +24,7 @@ related:
 
 - [Voz e tom](02_voz-e-tom.md): como a marca fala, como não fala e o tom por canal
 - [Identidade visual](03_identidade-visual.md): logo, nome, paleta, tipografia e regras de uso
+- [Quadro de evidências](04_quadro-de-evidencias.md): quem é a fundadora e o que é a PopKore, ligados por fio vermelho
 
 Próximas notas sugeridas:
 
