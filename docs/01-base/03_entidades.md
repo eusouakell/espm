@@ -29,7 +29,8 @@ related:
 - **Kell Bonassoli (Kell)**: fundadora e dona da PopKore. Head of Marketing & Context
   Engineering, neurodivergente, aluna da ESPM. Decide sobre marca, produto e esta base.
   - Em bios e assinaturas: "Kell Bonassoli" no formal, "Kell" no informal.
-  - Redes: **@eusouakell**.
+  - Redes: **@eusouakell** em todas (ver [Canais](#canais)).
+  - Site: [eusouakell.com.br](https://eusouakell.com.br/).
   - Foto e avatar: ver [identidade visual](../02-conteudo/marca/03_identidade-visual.md).
 
 ## Marca
@@ -41,10 +42,21 @@ related:
 
 ## Canais
 
-| Canal | Dono | Estado |
-| --- | --- | --- |
-| Redes sociais @eusouakell | Kell (perfil pessoal) | ativo |
-| Página showcase da PopKore no LinkedIn | PopKore | parada: sem atualização há muito tempo |
+| Canal | Link | Dono | Estado |
+| --- | --- | --- | --- |
+| LinkedIn (showcase PopKore) | [linkedin.com/showcase/popkore](https://www.linkedin.com/showcase/popkore/) | PopKore | parada: sem atualização há muito tempo; descrição atual "Seu segundo cérebro" |
+| LinkedIn | [linkedin.com/in/eusouakell](https://www.linkedin.com/in/eusouakell/) | Kell | ativo |
+| Instagram | [instagram.com/eusouakell](https://www.instagram.com/eusouakell/) | Kell | ativo |
+| X | [x.com/eusouakell](https://x.com/eusouakell) | Kell | ativo |
+| YouTube | [youtube.com/@eusouakell](https://www.youtube.com/@eusouakell) | Kell | ativo |
+| Medium | [medium.com/@eusouakell](https://medium.com/@eusouakell) | Kell | ativo |
+| GitHub | [github.com/eusouakell](https://github.com/eusouakell) | Kell | ativo |
+| Newsletter Cereja Flamejante | [cerejaflamejante.substack.com](https://cerejaflamejante.substack.com/) | Kell | ativo |
+| Site | [eusouakell.com.br](https://eusouakell.com.br/) | Kell | ativo |
+
+Links conferidos em 2026-11-19. TikTok e Threads não foram confirmados (o login esconde o
+perfil). O estado "ativo" é o que a fundadora informou; a frequência de cada canal ainda
+não foi levantada.
 
 Detalhes e estratégia de canais vão para
 [conteúdo e canais](../02-conteudo/conteudo-e-canais/00_mapa.md).
@@ -55,6 +67,10 @@ Detalhes e estratégia de canais vão para
   o curso na ESPM a partir de uma semente de KB. Estado: fundação e marca prontas (ver
   [STATE](../../STATE.md)).
 - **Primeiro produto**: ainda não definido. É o principal gargalo da marca.
+- **Outros projetos da Kell no GitHub** (relacionados, mas fora da PopKore):
+  [Context Engineering for Marketing](https://github.com/eusouakell/context-engineering-for-marketing)
+  (pesquisa pública), Marketing Context System, agentic-factory e o ecossistema da
+  Cereja Flamejante (repositórios privados).
 
 ## Produtos / linhas planejadas
 
