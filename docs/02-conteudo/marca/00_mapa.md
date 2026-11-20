@@ -22,9 +22,9 @@ related:
 
 ## Notas desta seção
 
+- [Voz e tom](02_voz-e-tom.md): como a marca fala, como não fala e o tom por canal
 - [Identidade visual](03_identidade-visual.md): logo, nome, paleta, tipografia e regras de uso
 
 Próximas notas sugeridas:
 
 - `01_posicionamento.md`: para quem, contra o quê, por que a PopKore
-- `02_voz-e-tom.md`: como a marca fala (e como não fala)

@@ -27,8 +27,9 @@ vazio.
 - **Fundação da marca**: [tese](docs/01-base/01_tese.md) e [léxico](docs/01-base/02_lexico.md)
   ativos; entidades em rascunho. Próximo gate: a fundadora revisa as
   [entidades](docs/01-base/03_entidades.md).
-- **Conteúdo da marca**: quatro seções criadas e vazias. Próximo gate: primeira nota de
-  posicionamento e voz em [marca/](docs/02-conteudo/marca/00_mapa.md).
+- **Conteúdo da marca**: [identidade visual](docs/02-conteudo/marca/03_identidade-visual.md)
+  ativa; [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) em rascunho. Próximo gate: a
+  fundadora revisa a voz e tom; depois, posicionamento.
 
 ## Decisões vigentes
 
@@ -42,7 +43,7 @@ vazio.
 - Commit direto sem revisão: o risco de vazar dado sensível aumenta. Mitigação: rodar
   `python scripts/audit-kb.py` e revisar o diff antes de cada push.
 - Vários agentes (Claude, ChatGPT/Codex, Gemini, Jev, Cursor) escrevendo: risco de vozes
-  divergentes até a nota de voz e tom existir.
+  divergentes. Mitigação: todos seguem a nota de voz e tom.
 
 ## Sem movimento
 

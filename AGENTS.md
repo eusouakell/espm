@@ -36,7 +36,9 @@ diferença entre **material bruto**, **contexto de trabalho**, **decisão aprova
 - Antes de encerrar uma rodada com trabalho inacabado: atualizar log, backlog e handoff.
 - Nunca commitar segredos e senhas, dados financeiros e preços, dados de clientes ou qualquer
   coisa que viole a LGPD ou a GDPR.
-- Escrever com a voz da PopKore descrita em `docs/02-conteudo/marca/` quando ela existir.
+- Escrever seguindo [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md): bem-humorada, direta,
+  neutra em gênero, sem tom de guru/coach/marketing agressivo/diagnóstico, emojis com
+  moderação (nunca dois juntos, nunca no lugar de palavras).
 
 ## Ritual de sessão
 
