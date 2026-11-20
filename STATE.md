@@ -25,13 +25,13 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
 ## Frentes ativas
 
 - **Fundação da marca**: [tese](docs/01-base/01_tese.md) e [léxico](docs/01-base/02_lexico.md)
-  ativos; [entidades](docs/01-base/03_entidades.md) em rascunho e desatualizadas. Próximo
-  gate: atualizar e revisar as entidades.
+  ativos; [entidades](docs/01-base/03_entidades.md) atualizadas, em rascunho. Próximo gate:
+  a fundadora revisa as entidades.
 - **Marca**: [identidade visual](docs/02-conteudo/marca/03_identidade-visual.md) e
   [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) ativas;
   [posicionamento](docs/02-conteudo/marca/01_posicionamento.md) ativo;
   [quadro de evidências](docs/02-conteudo/marca/04_quadro-de-evidencias.md) com 9 de 11
-  espaços. Próximo gate: atualizar as entidades.
+  espaços.
 - **Público, produtos e canais**: seções vazias. Próximo gate: personas em
   [publico/](docs/02-conteudo/publico/00_mapa.md) e definição do primeiro produto.
 
@@ -56,7 +56,8 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
 
 ## Sem movimento
 
-- Nenhuma frente parada ainda.
+- **Página showcase da PopKore no LinkedIn**: sem atualização há muito tempo; esperando a
+  estratégia de canais.
 
 ## Próxima revisão
 

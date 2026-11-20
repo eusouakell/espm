@@ -3,51 +3,80 @@ id: "kb.base.entidades"
 type: reference
 category: core
 title: Entidades da PopKore
-summary: Pessoas, linhas de produto e frentes relevantes para a marca.
+summary: Pessoas, linhas de produto, canais e frentes relevantes para a marca.
 status: draft
 authority: canonical
 audience: [fundadora, agentes]
 owner: fundadora
 last_reviewed: 2026-11-19
 order: 3
-tags: [entidades, pessoas, projetos]
+tags: [entidades, pessoas, projetos, canais]
 related:
   - 00_mapa.md
   - 02_lexico.md
+  - ../02-conteudo/marca/01_posicionamento.md
+  - ../02-conteudo/marca/04_quadro-de-evidencias.md
 ---
 
 # Entidades e fontes canônicas
 
-> **Privacidade:** nada de dados pessoais de clientes, parceiros ou alunos aqui (LGPD/GDPR).
-> Pessoas entram só pelo papel.
+> **Privacidade:** o repositório é público. Nada de dados pessoais de clientes, parceiros ou
+> alunos aqui (LGPD/GDPR). O nome, a foto, o avatar e as redes da fundadora aparecem por
+> autorização dela (2026-11-19).
 
 ## Pessoas
 
-- **Fundadora**: criadora e dona da PopKore, neurodivergente, aluna da ESPM. Decide sobre
-  marca, produto e esta base.
+- **Kell Bonassoli (Kell)**: fundadora e dona da PopKore. Head of Marketing & Context
+  Engineering, neurodivergente, aluna da ESPM. Decide sobre marca, produto e esta base.
+  - Em bios e assinaturas: "Kell Bonassoli" no formal, "Kell" no informal.
+  - Redes: **@eusouakell**.
+  - Foto e avatar: ver [identidade visual](../02-conteudo/marca/03_identidade-visual.md).
+
+## Marca
+
+- **PopKore**: marca de conhecimento em porções rápidas (IA, ferramentas e métodos) para
+  pessoas criativas. Ver [tese](01_tese.md) e
+  [posicionamento](../02-conteudo/marca/01_posicionamento.md).
+
+## Canais
+
+| Canal | Dono | Estado |
+| --- | --- | --- |
+| Redes sociais @eusouakell | Kell (perfil pessoal) | ativo |
+| Página showcase da PopKore no LinkedIn | PopKore | parada: sem atualização há muito tempo |
+
+Detalhes e estratégia de canais vão para
+[conteúdo e canais](../02-conteudo/conteudo-e-canais/00_mapa.md).
 
 ## Projetos / frentes
 
-- **Instanciação da LLM wiki**: transformar esta semente na base da PopKore. Estado: em
-  andamento (ver [STATE](../../STATE.md)).
+- **LLM wiki da PopKore** (este repositório): base de conhecimento da marca, criada durante
+  o curso na ESPM a partir de uma semente de KB. Estado: fundação e marca prontas (ver
+  [STATE](../../STATE.md)).
+- **Primeiro produto**: ainda não definido. É o principal gargalo da marca.
 
-## Produtos / ativos
+## Produtos / linhas planejadas
 
-- **Templates de Notion**: linha de produto (ver [produtos](../02-conteudo/produtos/00_mapa.md)).
-- **Cursos rápidos**: linha de produto.
-- **Infoprodutos**: linha de produto.
+Nenhuma linha lançada até 2026-11-19. Todas entregam o mesmo **conhecimento** em embalagens
+diferentes (ver [produtos](../02-conteudo/produtos/00_mapa.md)):
+
+- **Templates de Notion**
+- **Cursos rápidos**
+- **Infoprodutos**
+- **Skills, plugins e artefatos** de IA
+- **IA na rotina**: wikis, prompts e agentes para o dia a dia
 
 ## Registro operacional
 
 ```yaml
 - name: PopKore
   nature: empresa
-  origin: projeto da fundadora, durante curso na ESPM
-  owner: fundadora
+  origin: marca criada pela fundadora; a LLM wiki nasceu no curso da ESPM
+  owner: Kell Bonassoli
   canonical_repo: https://github.com/eusouakell/espm
   mirrors_or_forks: []
   stage: early
-  next_gate: tese revisada e primeiro produto definido
+  next_gate: primeiro produto definido
 ```
 
 Se outra base mencionar a PopKore, esta é a fonte canônica. Veja
