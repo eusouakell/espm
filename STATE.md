@@ -31,9 +31,8 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
   [posicionamento](docs/02-conteudo/marca/01_posicionamento.md) ativo;
   [quadro de evidências](docs/02-conteudo/marca/04_quadro-de-evidencias.md) com 9 de 11
   espaços.
-- **Público**: [personas](docs/02-conteudo/publico/01_personas.md) em rascunho; persona
-  principal: profissional de qualquer área que precisa de IA "o suficiente". Próximo gate:
-  a fundadora revisa as personas.
+- **Público**: [personas](docs/02-conteudo/publico/01_personas.md) ativas; persona
+  principal: profissional de qualquer área que precisa de IA "o suficiente".
 - **Produtos e canais**: seções vazias. Próximo gate: definir o primeiro produto para a
   persona principal.
 

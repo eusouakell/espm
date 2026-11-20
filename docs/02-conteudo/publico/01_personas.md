@@ -4,7 +4,7 @@ type: reference
 category: content
 title: Personas
 summary: A persona principal da PopKore e os quatro arquétipos secundários, com dores, desejos e canais.
-status: draft
+status: active
 authority: canonical
 audience: [fundadora, agentes]
 owner: fundadora
@@ -20,10 +20,8 @@ related:
 
 # Personas
 
-> A persona principal vem das respostas da fundadora (2026-11-19). Os detalhes dos
-> arquétipos secundários são inferências do Claude a partir do posicionamento: revise antes
-> de mudar para `status: active`. Personas são retratos compostos: nenhuma descreve uma
-> pessoa real nem contém dados de clientes.
+> Aprovadas pela fundadora em 2026-11-19. Personas são retratos compostos: nenhuma descreve
+> uma pessoa real nem contém dados de clientes.
 
 Todas são **pessoas criativas**, neurodivergentes ou neurotípicas. A PopKore não pede
 diagnóstico (ver [posicionamento](../marca/01_posicionamento.md)).
