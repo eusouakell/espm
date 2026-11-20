@@ -66,13 +66,56 @@ branco, 4:1). Use essa dupla só no nome e em títulos grandes. Para texto corri
 
 ## Tipografia
 
-| Uso | Fonte | Por quê |
-| --- | --- | --- |
-| Títulos | [Marcellus](https://fonts.google.com/specimen/Marcellus) | serifa "flare" como o lettering do nome; conversa com a logo sem copiá-la |
-| Texto | [Atkinson Hyperlegible](https://fonts.google.com/specimen/Atkinson+Hyperlegible) | feita para máxima legibilidade, coerente com uma marca feita por e para pessoas neurodivergentes |
+Duas fontes **variáveis** do Google Fonts: um único arquivo cobre todos os pesos do
+intervalo, e o desenho vetorial fica nítido em qualquer densidade de tela, de 1x a retina
+(2x/3x).
 
-As duas são gratuitas (Google Fonts) e funcionam no Notion via importação ou em imagens. O
-nome "PopKore" **não** é escrito com fonte: use sempre o arquivo do nome.
+| Uso | Fonte | Pesos | Por quê |
+| --- | --- | --- | --- |
+| Títulos | [Fraunces](https://fonts.google.com/specimen/Fraunces) | 100–900, tamanho óptico 9–144 | serifa com personalidade pop e um pouco "torta", como o caos criativo; o tamanho óptico redesenha as letras conforme o tamanho na tela |
+| Texto | [Atkinson Hyperlegible Next](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next) | 200–800 | feita para máxima legibilidade, coerente com uma marca feita por e para pessoas neurodivergentes |
+
+O nome "PopKore" **não** é escrito com fonte: use sempre o arquivo do nome.
+
+### Escala tipográfica
+
+Tamanhos em `rem` (1 rem = 16 px), que acompanham o zoom e o tamanho de fonte de quem lê:
+
+| Nível | Fonte | Peso | Tamanho | Entrelinha |
+| --- | --- | --- | --- | --- |
+| Display | Fraunces | 800 | 3 rem (48 px) | 1,1 |
+| H1 | Fraunces | 700 | 2.25 rem (36 px) | 1,15 |
+| H2 | Fraunces | 600 | 1.75 rem (28 px) | 1,2 |
+| H3 | Fraunces | 600 | 1.375 rem (22 px) | 1,25 |
+| Texto | Atkinson Next | 400 | 1 rem (16 px) | 1,6 |
+| Texto destacado | Atkinson Next | 700 | 1 rem (16 px) | 1,6 |
+| Pequeno / legenda | Atkinson Next | 400 | 0.875 rem (14 px) | 1,5 |
+
+Evite texto corrido abaixo de 14 px e pesos abaixo de 300 em textos pequenos.
+
+### Como usar na web
+
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@200..800&family=Fraunces:opsz,wght@9..144,100..900&display=swap" rel="stylesheet">
+```
+
+```css
+:root {
+  --fonte-titulo: "Fraunces", Georgia, serif;
+  --fonte-texto: "Atkinson Hyperlegible Next", system-ui, sans-serif;
+}
+body { font-family: var(--fonte-texto); font-size: 1rem; line-height: 1.6; }
+h1, h2, h3 { font-family: var(--fonte-titulo); font-optical-sizing: auto; }
+```
+
+### Fora da web
+
+- **Canva, Figma e apps de design:** as duas estão disponíveis ou podem ser instaladas a
+  partir do Google Fonts.
+- **Notion:** não aceita fontes personalizadas. Nos templates, use as fontes do próprio
+  Notion e leve a identidade pela capa, pelos ícones, pelas cores e pelo arquivo do nome.
 
 ## Regras de uso
 
