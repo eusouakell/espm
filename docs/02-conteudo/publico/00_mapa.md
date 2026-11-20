@@ -22,8 +22,8 @@ related:
 
 ## Notas desta seção
 
-_Ainda vazia._ Sugestões:
+1. [Personas](01_personas.md): a persona principal (profissional que precisa de IA "o suficiente") e quatro arquétipos secundários, com dores, desejos e canais
 
-- `01_personas.md`: 2 ou 3 personas, sem dados reais de clientes
-- `02_dores-e-desejos.md`
-- `03_linguagem.md`: palavras e referências que o público usa
+Próxima nota sugerida:
+
+- `02_linguagem.md`: palavras e referências que o público usa, a partir de conversas reais

@@ -31,8 +31,11 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
   [posicionamento](docs/02-conteudo/marca/01_posicionamento.md) ativo;
   [quadro de evidências](docs/02-conteudo/marca/04_quadro-de-evidencias.md) com 9 de 11
   espaços.
-- **Público, produtos e canais**: seções vazias. Próximo gate: personas em
-  [publico/](docs/02-conteudo/publico/00_mapa.md) e definição do primeiro produto.
+- **Público**: [personas](docs/02-conteudo/publico/01_personas.md) em rascunho; persona
+  principal: profissional de qualquer área que precisa de IA "o suficiente". Próximo gate:
+  a fundadora revisa as personas.
+- **Produtos e canais**: seções vazias. Próximo gate: definir o primeiro produto para a
+  persona principal.
 
 ## Decisões vigentes
 
@@ -60,5 +63,5 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
 
 ## Próxima revisão
 
-- **Data ou gatilho:** quando as personas existirem
+- **Data ou gatilho:** quando o primeiro produto for definido
 - **Responsável:** fundadora
