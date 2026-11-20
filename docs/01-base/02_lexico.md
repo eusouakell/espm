@@ -34,6 +34,14 @@ estrutura leve a uma mente criativa sem domesticá-la.
 O público da PopKore: criativas, curiosas, muitas vezes neurodivergentes, que rejeitam
 produtividade engessada. Detalhes em [público](../02-conteudo/publico/00_mapa.md).
 
+### Conhecimento
+Tudo o que a PopKore entrega: IA, ferramentas e métodos. É o produto; template, skill, curso
+rápido ou infoproduto são só a embalagem (ver [tese](01_tese.md)).
+
+### Porção
+A unidade de entrega da PopKore: um pedaço de conhecimento curto, com objetivo claro e
+resultado rápido. Vem da promessa "pipoca para o seu cérebro".
+
 ### Neurodivergente
 Pessoa cujo funcionamento cognitivo difere do considerado típico (por exemplo, TDAH ou
 autismo). Na PopKore é lugar de fala da fundadora e lente de produto, nunca rótulo para o

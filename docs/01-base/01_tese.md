@@ -10,34 +10,46 @@ audience: [fundadora, agentes]
 owner: fundadora
 last_reviewed: 2026-11-19
 order: 1
-tags: [tese, fundacao]
+tags: [tese, fundacao, conhecimento, ia]
 related:
   - 00_mapa.md
   - 02_lexico.md
+  - ../02-conteudo/marca/01_posicionamento.md
 ---
 
 # Tese
 
 ## Em uma frase
 
-**Caos criativo organizado:** ferramentas e cursos curtos que ajudam cabeças inquietas a dar
-forma às próprias ideias sem apagar o que elas têm de caótico.
+**Caos criativo organizado:** conhecimento em porções rápidas e gostosas (IA, ferramentas e
+métodos) para cabeças criativas transformarem ideias em resultado, sem apagar o que elas têm
+de caótico.
 
 ## Por extenso
 
-Muita ferramenta de produtividade parte de uma mente linear e pede disciplina e rotina rígida.
-Para pessoas neurodivergentes, criativas e "descoladas", esse modelo costuma gerar culpa e
-abandono, não organização.
+O conhecimento que mais importa hoje, de IA a ferramentas de organização, costuma chegar
+embrulhado em jargão técnico, cursos longos, hype ou disciplina rígida. Para pessoas
+criativas, neurodivergentes ou neurotípicas, isso gera confusão, culpa e abandono, não
+resultado.
 
 A PopKore assume outra posição. O caos não é o problema a eliminar: é a matéria-prima. A
-marca é feita por uma neurodivergente e oferece estruturas leves, como templates de Notion,
-cursos rápidos e infoprodutos, que acomodam o jeito como essas pessoas já pensam, com
-estética pop especialmente pensada para ativar os seus neurotransmissores.
+marca transforma **conhecimento** em porções rápidas, com objetivos claros, passos bem
+estruturados e resultado rápido, e com estética pop especialmente pensada para ativar os seus
+neurotransmissores. IA, templates de Notion, cursos e skills são formas diferentes de entregar
+o mesmo conhecimento.
+
+Quem faz entende: a PopKore é criada por uma Head of Marketing & Context Engineering
+neurodivergente, que usa IA de verdade no dia a dia e também vive com mil abas abertas.
 
 ## O que decorre da tese
 
-- Produtos curtos e práticos: resultado rápido vale mais que método completo.
-- Linguagem de igual para igual, com humor e referência pop; nada de "guru da produtividade".
-- A vivência neurodivergente da fundadora é parte da autoridade da marca.
-- Organização flexível: todo produto deve funcionar mesmo quando a pessoa some por semanas e
-  volta.
+- **Conhecimento é o produto; o formato é a embalagem.** Skill, template, curso rápido,
+  infoproduto ou artefato: o que importa é a pessoa sair sabendo fazer.
+- **Porções rápidas:** resultado rápido vale mais que método completo.
+- **IA é para quem cria,** não só para técnicos, e sem hype nem promessas vazias.
+- **Linguagem de igual para igual,** com humor e referência pop; nada de "guru da
+  produtividade".
+- **A vivência da fundadora é a autoridade da marca:** cérebro neurodivergente e prática real
+  com IA.
+- **Organização flexível:** todo produto deve funcionar mesmo quando a pessoa some por
+  semanas e volta.

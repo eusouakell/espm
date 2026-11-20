@@ -31,7 +31,7 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
   [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) ativas;
   [posicionamento](docs/02-conteudo/marca/01_posicionamento.md) ativo;
   [quadro de evidências](docs/02-conteudo/marca/04_quadro-de-evidencias.md) com 9 de 11
-  espaços. Próximo gate: alinhar a tese ao posicionamento (IA).
+  espaços. Próximo gate: atualizar as entidades.
 - **Público, produtos e canais**: seções vazias. Próximo gate: personas em
   [publico/](docs/02-conteudo/publico/00_mapa.md) e definição do primeiro produto.
 
@@ -49,8 +49,6 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
 
 - A PopKore ainda não tem primeiro produto: sem ele, o quadro não fecha a ponta "Provas" e as
   seções de produtos e canais ficam sem assunto.
-- A [tese](docs/01-base/01_tese.md) não menciona IA, mas o posicionamento põe IA no centro.
-  Vale revisar se a tese deve citar IA.
 - Repositório público com commit direto sem revisão: risco de vazar dado sensível.
   Mitigação: rodar `python scripts/audit-kb.py` e revisar o diff antes de cada push.
 - Vários agentes (Claude, ChatGPT/Codex, Gemini, Jev, Cursor) escrevendo: risco de vozes
@@ -62,5 +60,5 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
 
 ## Próxima revisão
 
-- **Data ou gatilho:** quando a tese e as entidades forem revisadas
+- **Data ou gatilho:** quando as entidades forem revisadas
 - **Responsável:** fundadora
