@@ -4,7 +4,7 @@ type: reference
 category: core
 title: Entidades da PopKore
 summary: Pessoas, linhas de produto, canais e frentes relevantes para a marca.
-status: draft
+status: active
 authority: canonical
 audience: [fundadora, agentes]
 owner: fundadora

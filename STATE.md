@@ -24,9 +24,8 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
 
 ## Frentes ativas
 
-- **Fundação da marca**: [tese](docs/01-base/01_tese.md) e [léxico](docs/01-base/02_lexico.md)
-  ativos; [entidades](docs/01-base/03_entidades.md) atualizadas, em rascunho. Próximo gate:
-  a fundadora revisa as entidades.
+- **Fundação da marca**: [tese](docs/01-base/01_tese.md), [léxico](docs/01-base/02_lexico.md)
+  e [entidades](docs/01-base/03_entidades.md) ativos. Fundação completa.
 - **Marca**: [identidade visual](docs/02-conteudo/marca/03_identidade-visual.md) e
   [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) ativas;
   [posicionamento](docs/02-conteudo/marca/01_posicionamento.md) ativo;
@@ -61,5 +60,5 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
 
 ## Próxima revisão
 
-- **Data ou gatilho:** quando as entidades forem revisadas
+- **Data ou gatilho:** quando as personas existirem
 - **Responsável:** fundadora
