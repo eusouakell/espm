@@ -25,9 +25,10 @@ related:
 
 ## As decisões fundadoras
 
-- **Objeto:** a marca PopKore, de **caos criativo organizado**: templates de Notion, cursos
-  rápidos e infoprodutos feitos por uma neurodivergente para pessoas descoladas. A base
-  nasceu como trabalho de uma aluna da ESPM a partir de uma semente de KB.
+- **Objeto:** a marca PopKore, de **caos criativo organizado**: conhecimento em porções
+  rápidas (IA, ferramentas e métodos) para pessoas criativas. É um projeto antigo da
+  fundadora que está ganhando forma no curso da ESPM, onde esta base nasceu a partir de uma
+  semente de KB.
 - **Públicos:** a fundadora, para pensar e decidir sobre a marca, e agentes de IA, que usam a
   base como contexto para criar com a voz da PopKore.
 - **Camadas:** uma só. Tudo vive aqui.

@@ -35,7 +35,8 @@ related:
 ## Marca
 
 - **PopKore**: marca de conhecimento em porções rápidas (IA, ferramentas e métodos) para
-  pessoas criativas. Ver [tese](01_tese.md) e
+  pessoas criativas. É um projeto antigo da fundadora, que ficou parado e agora, com o curso
+  da ESPM, está ganhando forma. Ver [tese](01_tese.md) e
   [posicionamento](../02-conteudo/marca/01_posicionamento.md).
 
 ## Canais
@@ -71,7 +72,7 @@ diferentes (ver [produtos](../02-conteudo/produtos/00_mapa.md)):
 ```yaml
 - name: PopKore
   nature: empresa
-  origin: marca criada pela fundadora; a LLM wiki nasceu no curso da ESPM
+  origin: projeto antigo da fundadora, retomado e estruturado durante o curso da ESPM
   owner: Kell Bonassoli
   canonical_repo: https://github.com/eusouakell/espm
   mirrors_or_forks: []
