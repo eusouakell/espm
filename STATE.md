@@ -28,12 +28,13 @@ vazio.
   ativos; entidades em rascunho. Próximo gate: a fundadora revisa as
   [entidades](docs/01-base/03_entidades.md).
 - **Conteúdo da marca**: [identidade visual](docs/02-conteudo/marca/03_identidade-visual.md)
-  e [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) ativas; [quadro de evidências](docs/02-conteudo/marca/04_quadro-de-evidencias.md) com 8 de 11 espaços.
+  e [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) ativas; [quadro de evidências](docs/02-conteudo/marca/04_quadro-de-evidencias.md) com 9 de 11 espaços.
   Próximo gate: posicionamento.
 
 ## Decisões vigentes
 
-- Uma camada só, repositório privado e frontmatter rico.
+- Uma camada só, repositório **público** no GitHub e frontmatter rico. Foto e avatar da
+  fundadora públicos por autorização dela.
 - Commit direto na `main`; sem PR obrigatória.
 - Nada de segredos, financeiro/preços, dados de clientes ou qualquer coisa contrária à
   LGPD/GDPR no Git.

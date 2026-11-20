@@ -7,6 +7,7 @@ troque o texto de "pergunta" por um texto curto da evidência e mude "preenchido
 A lista de evidências, com fontes, vive em docs/02-conteudo/marca/04_quadro-de-evidencias.md.
 """
 import pathlib
+import base64
 import math
 import re
 from xml.sax.saxutils import escape
@@ -29,7 +30,7 @@ COR = {
 
 # id, tipo, x, y, largura, altura, rotação, cor, grupo, título, pergunta, preenchido
 CARTOES = [
-    ("foto", "polaroid", 70, 145, 190, 265, -4, "branco", "Quem sou eu", "Foto minha", "uma foto que diga quem eu sou", False),
+    ("foto", "polaroid", 70, 145, 190, 265, -4, "branco", "Quem sou eu", "Foto minha", "a fundadora da PopKore", True),
     ("cerebro", "postit", 300, 130, 190, 170, 3, "pessego", "Quem sou eu", "Meu cérebro", "mil abas abertas, hiperfoco, aprendo em profundidade e preciso ver para lembrar", True),
     ("trajetoria", "folha", 80, 455, 220, 240, 2, "branco", "Quem sou eu", "Trajetória", "Head of Marketing & Context Engineering", True),
     ("irrita", "postit", 330, 470, 190, 170, -3, "rosa", "Quem sou eu", "O que me irrita", "rotina rígida, culpa, sistemas complexos e coisas sem graça", True),
@@ -41,6 +42,11 @@ CARTOES = [
     ("catalogo", "folha", 1070, 465, 200, 230, 3, "branco", "PopKore", "Catálogo", "planejado: Notion, cursos, infoprodutos, skills, plugins e IA", True),
     ("provas", "envelope", 795, 570, 255, 175, -2, "creme", "PopKore", "Provas", "depoimentos e resultados (com permissão)", False),
 ]
+
+# fotos embutidas nas polaroides (caminho relativo a ASSETS)
+IMAGENS = {
+    "foto": "quadro/fundadora-foto-quadro.jpg",
+}
 
 FIOS = [
     ("foto", "cerebro"), ("cerebro", "tese"), ("cerebro", "irrita"), ("irrita", "tese"),
@@ -98,6 +104,10 @@ def cartao(c):
             out.append(f'<rect x="{x + 14}" y="{y + 14}" width="{w - 28}" height="{ph - 14}" fill="#FFFFFF" stroke="{COR["contorno"]}" stroke-width="2"/>')
             lvb, lcorpo = logo_svg()
             out.append(f'<svg x="{x + 18}" y="{y + 18}" width="{w - 36}" height="{ph - 22}" viewBox="{lvb}" preserveAspectRatio="xMidYMid meet">{lcorpo}</svg>')
+        elif cid in IMAGENS:
+            dados = base64.b64encode((ASSETS / IMAGENS[cid]).read_bytes()).decode("ascii")
+            out.append(f'<image x="{x + 14}" y="{y + 14}" width="{w - 28}" height="{ph - 14}" preserveAspectRatio="xMidYMid slice" href="data:image/jpeg;base64,{dados}"/>')
+            out.append(f'<rect x="{x + 14}" y="{y + 14}" width="{w - 28}" height="{ph - 14}" fill="none" stroke="{COR["contorno"]}" stroke-width="2"/>')
         else:
             out.append(f'<rect x="{x + 14}" y="{y + 14}" width="{w - 28}" height="{ph - 14}" fill="{COR["contorno"]}"/>')
         if not cheio:

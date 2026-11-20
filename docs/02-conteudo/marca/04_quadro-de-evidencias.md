@@ -30,7 +30,7 @@ mostram como a história da fundadora sustenta a marca.
 
 | Espaço | Lado | Pergunta | Estado | Evidência |
 | --- | --- | --- | --- | --- |
-| Foto minha | Quem sou eu | uma foto que diga quem eu sou | vazio | |
+| Foto minha | Quem sou eu | uma foto que diga quem eu sou | preenchido | [foto](assets/quadro/fundadora-foto.jpg) e [avatar ilustrado](assets/quadro/fundadora-avatar.jpg) da fundadora. (fundadora, 2026-11-19) |
 | Meu cérebro | Quem sou eu | como minha cabeça funciona, em 1ª pessoa | preenchido | Preciso aprender em profundidade, tenho mil abas abertas, começo tudo e termino pouco, entro em hiperfoco e preciso ver para lembrar. (fundadora, 2026-11-19) |
 | Trajetória | Quem sou eu | de onde eu vim e o que me trouxe até aqui | preenchido | Head of Marketing & Context Engineering. (fundadora, 2026-11-19) |
 | O que me irrita | Quem sou eu | o que me incomoda na produtividade tradicional | preenchido | Coisas chatas e sem graça, rotina rígida, culpa e disciplina, sistemas complexos demais e tudo feito para cérebros típicos. (fundadora, 2026-11-19) |
@@ -42,7 +42,7 @@ mostram como a história da fundadora sustenta a marca.
 | Catálogo | PopKore | templates, cursos rápidos, infoprodutos | preenchido (planejado) | Linhas planejadas, nenhuma lançada: templates de Notion, cursos rápidos, infoprodutos, skills, plugins e artefatos, IA na rotina. (fundadora, 2026-11-19) |
 | Provas | PopKore | depoimentos e resultados | vazio | |
 
-**Cobertura atual: 8 de 11.** Faltam: Foto minha, Primeiro produto e Provas.
+**Cobertura atual: 9 de 11.** Faltam: Primeiro produto e Provas, que dependem de a PopKore lançar algo.
 
 ## Fios (ligações)
 

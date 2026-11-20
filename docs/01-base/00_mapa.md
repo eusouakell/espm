@@ -31,7 +31,9 @@ related:
 - **Públicos:** a fundadora, para pensar e decidir sobre a marca, e agentes de IA, que usam a
   base como contexto para criar com a voz da PopKore.
 - **Camadas:** uma só. Tudo vive aqui.
-- **Privacidade:** repositório privado. Nunca entram no Git segredos e senhas, dados
+- **Privacidade:** o repositório no GitHub é **público**: tudo o que entra aqui pode ser lido
+  por qualquer pessoa. A foto e o avatar da fundadora são públicos por autorização dela, como
+  parte do branding. Nunca entram no Git segredos e senhas, dados
   financeiros e preços, dados de clientes, nem nada que viole a LGPD ou a GDPR.
 - **Manutenção:** commit direto na `main`, feito pela fundadora ou por agentes autorizados.
   Sem PR obrigatória.

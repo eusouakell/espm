@@ -44,6 +44,20 @@ vermelho.
 O lettering da etiqueta, recortado e vetorizado. Use quando a logo completa não couber:
 cabeçalhos, rodapés, assinaturas de e-mail, capas de template e espaços horizontais.
 
+## A fundadora
+
+| Foto | Avatar |
+| --- | --- |
+| ![Foto da fundadora](assets/quadro/fundadora-foto.jpg) | ![Avatar ilustrado da fundadora](assets/quadro/fundadora-avatar.jpg) |
+
+- **Foto:** para bio, página "sobre", e-mails e o [quadro de evidências](04_quadro-de-evidencias.md).
+- **Avatar ilustrado:** rosto em estilo retrô de quadrinhos dentro de uma flor laranja e
+  magenta, como um adesivo. Para perfis em redes, cursos e materiais em que a fundadora
+  aparece como personagem.
+
+As duas imagens são **da fundadora** e fazem parte do branding. Estão públicas no repositório
+por autorização dela (2026-11-19). Use-as só em materiais da PopKore.
+
 ## Paleta
 
 Cores medidas nos pixels da logo:
