@@ -29,17 +29,17 @@ COR = {
 
 # id, tipo, x, y, largura, altura, rotação, cor, grupo, título, pergunta, preenchido
 CARTOES = [
-    ("foto", "polaroid", 70, 150, 180, 240, -4, "branco", "Quem sou eu", "Foto minha", "uma foto que diga quem eu sou", False),
+    ("foto", "polaroid", 70, 145, 190, 265, -4, "branco", "Quem sou eu", "Foto minha", "uma foto que diga quem eu sou", False),
     ("cerebro", "postit", 300, 130, 190, 170, 3, "pessego", "Quem sou eu", "Meu cérebro", "mil abas abertas, hiperfoco, aprendo em profundidade e preciso ver para lembrar", True),
-    ("trajetoria", "folha", 80, 440, 220, 240, 2, "branco", "Quem sou eu", "Trajetória", "Head of Marketing & Context Engineering", True),
+    ("trajetoria", "folha", 80, 455, 220, 240, 2, "branco", "Quem sou eu", "Trajetória", "Head of Marketing & Context Engineering", True),
     ("irrita", "postit", 330, 470, 190, 170, -3, "rosa", "Quem sou eu", "O que me irrita", "rotina rígida, culpa, sistemas complexos e coisas sem graça", True),
     ("espm", "nota", 560, 560, 200, 150, 4, "creme", "Quem sou eu", "ESPM", "uma LLM wiki estruturada; antes eu fazia wikis sozinha", True),
     ("tese", "postit", 550, 150, 245, 190, -2, "pop", "PopKore", "Caos criativo organizado", "ferramentas leves para cabeças inquietas darem forma às ideias", True),
-    ("nome", "polaroid", 830, 140, 180, 240, 5, "branco", "PopKore", "Por que PopKore", "pipoca + cérebro", True),
+    ("nome", "polaroid", 830, 130, 190, 255, 5, "branco", "PopKore", "Por que PopKore", "pipoca + cérebro", True),
     ("publico", "nota", 815, 385, 215, 160, -4, "lilas", "PopKore", "Pessoas descoladas", "builders, makers, criativas, ND, marketing e quem quer IA na rotina", True),
-    ("produto", "polaroid", 1070, 150, 180, 240, -3, "branco", "PopKore", "Primeiro produto", "print do primeiro template ou curso", False),
-    ("catalogo", "folha", 1070, 450, 200, 230, 3, "branco", "PopKore", "Catálogo", "planejado: Notion, cursos, infoprodutos, skills, plugins e IA", True),
-    ("provas", "envelope", 800, 580, 250, 150, -2, "creme", "PopKore", "Provas", "depoimentos e resultados (com permissão)", False),
+    ("produto", "polaroid", 1070, 140, 190, 270, -3, "branco", "PopKore", "Primeiro produto", "print do primeiro template ou curso", False),
+    ("catalogo", "folha", 1070, 465, 200, 230, 3, "branco", "PopKore", "Catálogo", "planejado: Notion, cursos, infoprodutos, skills, plugins e IA", True),
+    ("provas", "envelope", 795, 570, 255, 175, -2, "creme", "PopKore", "Provas", "depoimentos e resultados (com permissão)", False),
 ]
 
 FIOS = [
@@ -50,6 +50,11 @@ FIOS = [
 ]
 
 W, H = 1360, 800
+
+# largura média de um caractere, em frações do corpo da fonte, com folga para
+# Fraunces/Atkinson e para as fontes de reserva (Georgia/Arial)
+LARG_TITULO = 0.62
+LARG_TEXTO = 0.56
 
 
 def nome_paths():
@@ -88,7 +93,7 @@ def cartao(c):
     texto_y = y + 46
     if tipo == "polaroid":
         out.append(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="3" fill="#FFFFFF" stroke="{COR["contorno"]}" stroke-width="4"/>')
-        ph = h - 84
+        ph = h - 104
         if cid == "nome":
             out.append(f'<rect x="{x + 14}" y="{y + 14}" width="{w - 28}" height="{ph - 14}" fill="#FFFFFF" stroke="{COR["contorno"]}" stroke-width="2"/>')
             lvb, lcorpo = logo_svg()
@@ -108,8 +113,8 @@ def cartao(c):
             out.append(f'<circle cx="{x + 14}" cy="{ry}" r="4" fill="{COR["creme"]}" stroke="{COR["contorno"]}" stroke-width="2"/>')
     elif tipo == "envelope":
         out.append(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="3" fill="{fill}" stroke="{COR["contorno"]}" stroke-width="4"/>')
-        out.append(f'<path d="M{x} {y} L{cx} {y + h * .55} L{x + w} {y}" fill="none" stroke="{COR["contorno"]}" stroke-width="3"/>')
-        texto_y = y + h * .5 + 22
+        out.append(f'<path d="M{x} {y} L{cx} {y + h * .4} L{x + w} {y}" fill="none" stroke="{COR["contorno"]}" stroke-width="3"/>')
+        texto_y = y + h * .4 + 26
     else:  # postit / nota
         dobra = 26
         out.append(f'<path d="M{x} {y} H{x + w} V{y + h - dobra} L{x + w - dobra} {y + h} H{x} Z" fill="{fill}" stroke="{COR["contorno"]}" stroke-width="4" stroke-linejoin="round"/>')
@@ -117,17 +122,33 @@ def cartao(c):
         if tipo == "nota":
             out.append(f'<rect x="{cx - 34}" y="{y - 12}" width="68" height="24" fill="{COR["branco"]}" opacity=".85" stroke="{COR["contorno"]}" stroke-width="2" transform="rotate(-6 {cx} {y})"/>')
     tx = x + (40 if tipo == "folha" else 16)
-    out.append(f'<text x="{tx}" y="{texto_y}" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="{tinta}">{escape(titulo)}</text>')
-    largura_chars = max(12, int((w - (56 if tipo == "folha" else 32)) / (7.2 if cheio else 7.8)))
+    largura = w - (tx - x) - 16  # área útil para texto, com margem dos dois lados
+    base = y + h - 12
+    vazio_marcado = not cheio and tipo != "polaroid"
+
+    # título: reduz o corpo até caber numa linha; se não couber, quebra
+    tam_t = 19
+    larg_t = largura - (34 if vazio_marcado else 0)  # o quadradinho fica à direita do título
+    while tam_t > 15 and len(titulo) * LARG_TITULO * tam_t > larg_t:
+        tam_t -= 1
+    linhas_t = quebra(titulo, int(larg_t / (LARG_TITULO * tam_t)))
+    for i, linha in enumerate(linhas_t):
+        out.append(f'<text x="{tx}" y="{texto_y + i * tam_t * 1.15}" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="{tam_t}" fill="{tinta}">{escape(linha)}</text>')
+    topo = texto_y + (len(linhas_t) - 1) * tam_t * 1.15
+
+    # texto: reduz o corpo até todas as linhas caberem na altura do cartão
     estilo = 'font-style="normal"' if cheio else 'font-style="italic" opacity=".75"'
-    max_linhas = max(2, int((y + h - 14 - (texto_y + 24)) / 19) + 1)
-    linhas = quebra(pergunta, largura_chars)
-    if len(linhas) > max_linhas:
-        raise SystemExit(f"texto de '{cid}' não cabe: {len(linhas)} linhas, máximo {max_linhas}. Encurte o texto.")
+    for tam in (14.5, 13.5, 12.5):
+        passo = tam * 1.3
+        linhas = quebra(pergunta, int(largura / (LARG_TEXTO * tam)))
+        if topo + 6 + len(linhas) * passo <= base:
+            break
+    else:
+        raise SystemExit(f"texto de '{cid}' não cabe no cartão. Encurte o texto ou aumente o cartão.")
     for i, linha in enumerate(linhas):
-        out.append(f'<text x="{tx}" y="{texto_y + 24 + i * 19}" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" {estilo} fill="{tinta}">{escape(linha)}</text>')
-    if not cheio and tipo != "polaroid":
-        out.append(f'<rect x="{x + w - 48}" y="{y + h - 50 if tipo in ("postit", "nota") else y + h - 40}" width="26" height="26" rx="6" fill="none" stroke="{tinta}" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>')
+        out.append(f'<text x="{tx}" y="{topo + 6 + (i + 1) * passo:.1f}" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="{tam}" {estilo} fill="{tinta}">{escape(linha)}</text>')
+    if vazio_marcado:
+        out.append(f'<rect x="{x + w - 40}" y="{texto_y - 19}" width="24" height="24" rx="6" fill="none" stroke="{tinta}" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>')
     out.append("</g>")
     return "\n".join(out)
 

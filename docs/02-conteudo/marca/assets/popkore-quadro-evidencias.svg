@@ -18,102 +18,105 @@
 <text x="680.0" y="132" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="20" fill="#170003">quadro de evidências</text>
 <text x="70" y="118" font-family="Fraunces, Georgia, serif" font-weight="800" font-size="26" fill="#D40000">Quem sou eu</text>
 <text x="1290" y="118" text-anchor="end" font-family="Fraunces, Georgia, serif" font-weight="800" font-size="26" fill="#D40000">PopKore</text>
-<path d="M152.04776199316973 156.27769827038003 Q275.59115126818114 164.19298251238433 399.13454054319254 136.10826675438867" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
+<path d="M156.17580607136816 151.30814764213224 Q277.65517330728034 161.70820719826045 399.13454054319254 136.10826675438867" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
 <path d="M399.13454054319254 136.10826675438867 Q534.264242668335 164.08124157484457 669.3939447934774 156.05421639530047" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
 <path d="M399.13454054319254 136.10826675438867 Q410.0 324.10826675438864 420.86545945680746 476.10826675438864" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
 <path d="M420.86545945680746 476.10826675438864 Q545.1297021251424 334.08124157484457 669.3939447934774 156.05421639530047" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
-<path d="M193.97854262408512 446.0694457198231 Q429.39586965621487 524.1187631259477 664.8131966883446 566.1680805320722" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
+<path d="M193.97854262408512 461.0694457198231 Q429.39586965621487 531.6187631259477 664.8131966883446 566.1680805320722" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
 <path d="M664.8131966883446 566.1680805320722 Q667.103570740911 379.11114846368633 669.3939447934774 156.05421639530047" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
-<path d="M669.3939447934774 156.05421639530047 Q799.6648497333553 169.24401040642073 929.9357546732331 146.433804417541" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
+<path d="M669.3939447934774 156.05421639530047 Q802.491683768659 164.2582802885767 935.5894227438405 136.46234418185293" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
 <path d="M669.3939447934774 156.05421639530047 Q793.3659828682061 291.61723833803677 917.3380209429347 391.18026028077304" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
-<path d="M917.3380209429347 391.18026028077304 Q1035.6858609656197 291.6682466593758 1154.0337009883044 156.15623303797858" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
-<path d="M1154.0337009883044 156.15623303797858 Q1164.8691601093926 324.152806874865 1175.7046192304808 456.14938071175146" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
-<path d="M917.3380209429347 391.18026028077304 Q919.9649778352311 506.6111466082277 922.5919347275275 586.0420329356824" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
-<path d="M1175.7046192304808 456.14938071175146 Q1049.148276979004 539.0957068237169 922.5919347275275 586.0420329356824" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
-<path d="M193.97854262408512 446.0694457198231 Q173.0131523086274 319.17357199510155 152.04776199316973 156.27769827038003" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
-<g id="foto" transform="rotate(-4 160.0 270.0)">
-<rect x="77" y="159" width="180" height="240" rx="4" fill="#170003" opacity=".35"/>
-<rect x="70" y="150" width="180" height="240" rx="3" fill="#FFFFFF" stroke="#170003" stroke-width="4"/>
-<rect x="84" y="164" width="152" height="142" fill="#170003"/>
-<text x="160.0" y="249.0" text-anchor="middle" font-size="44" fill="#CB788D" font-family="Atkinson Hyperlegible Next, Arial, sans-serif">+</text>
-<text x="86" y="330" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Foto minha</text>
-<text x="86" y="354" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">uma foto que diga</text>
-<text x="86" y="373" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">quem eu sou</text>
+<path d="M917.3380209429347 391.18026028077304 Q1037.7933412937973 286.6785251487165 1158.2486616446602 146.17679001665996" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
+<path d="M1158.2486616446602 146.17679001665996 Q1166.9766404375705 326.6630853642057 1175.7046192304808 471.14938071175146" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
+<path d="M917.3380209429347 391.18026028077304 Q918.4968559808405 501.6149539393584 919.6556910187462 576.0496475979437" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
+<path d="M1175.7046192304808 471.14938071175146 Q1047.6801551246135 541.5995141548476 919.6556910187462 576.0496475979437" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
+<path d="M193.97854262408512 461.0694457198231 Q175.07717434772664 324.18879668097765 156.17580607136816 151.30814764213224" fill="none" stroke="#D40000" stroke-width="3.2" stroke-linecap="round" opacity=".9"/>
+<g id="foto" transform="rotate(-4 165.0 277.5)">
+<rect x="77" y="154" width="190" height="265" rx="4" fill="#170003" opacity=".35"/>
+<rect x="70" y="145" width="190" height="265" rx="3" fill="#FFFFFF" stroke="#170003" stroke-width="4"/>
+<rect x="84" y="159" width="162" height="147" fill="#170003"/>
+<text x="165.0" y="246.5" text-anchor="middle" font-size="44" fill="#CB788D" font-family="Atkinson Hyperlegible Next, Arial, sans-serif">+</text>
+<text x="86" y="330.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Foto minha</text>
+<text x="86" y="354.9" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">uma foto que diga</text>
+<text x="86" y="373.7" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">quem eu sou</text>
 </g>
 <g id="cerebro" transform="rotate(3 395.0 215.0)">
 <rect x="307" y="139" width="190" height="170" rx="4" fill="#170003" opacity=".35"/>
 <path d="M300 130 H490 V274 L464 300 H300 Z" fill="#EAA993" stroke="#170003" stroke-width="4" stroke-linejoin="round"/>
 <path d="M490 274 H464 V300 Z" fill="#170003" opacity=".25" stroke="#170003" stroke-width="3" stroke-linejoin="round"/>
-<text x="316" y="176" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Meu cérebro</text>
-<text x="316" y="200" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">mil abas abertas,</text>
-<text x="316" y="219" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">hiperfoco, aprendo em</text>
-<text x="316" y="238" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">profundidade e</text>
-<text x="316" y="257" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">preciso ver para</text>
-<text x="316" y="276" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">lembrar</text>
+<text x="316" y="176.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Meu cérebro</text>
+<text x="316" y="200.8" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">mil abas abertas,</text>
+<text x="316" y="219.7" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">hiperfoco, aprendo</text>
+<text x="316" y="238.6" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">em profundidade e</text>
+<text x="316" y="257.4" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">preciso ver para</text>
+<text x="316" y="276.2" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">lembrar</text>
 </g>
-<g id="trajetoria" transform="rotate(2 190.0 560.0)">
-<rect x="87" y="449" width="220" height="240" rx="4" fill="#170003" opacity=".35"/>
-<rect x="80" y="440" width="220" height="240" rx="3" fill="#FFFFFF" stroke="#170003" stroke-width="4"/>
-<line x1="84" y1="464" x2="296" y2="464" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="482" x2="296" y2="482" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="500" x2="296" y2="500" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="518" x2="296" y2="518" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="536" x2="296" y2="536" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="554" x2="296" y2="554" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="572" x2="296" y2="572" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="590" x2="296" y2="590" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="608" x2="296" y2="608" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="626" x2="296" y2="626" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="644" x2="296" y2="644" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="84" y1="662" x2="296" y2="662" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="110" y1="443" x2="110" y2="677" stroke="#FF0000" stroke-width="1.5" opacity=".6"/>
-<circle cx="94" cy="458" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="94" cy="480" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="94" cy="502" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="94" cy="524" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="94" cy="546" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="94" cy="568" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="94" cy="590" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="94" cy="612" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="94" cy="634" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="94" cy="656" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<text x="120" y="486" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Trajetória</text>
-<text x="120" y="510" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">Head of Marketing &amp;</text>
-<text x="120" y="529" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">Context Engineering</text>
+<g id="trajetoria" transform="rotate(2 190.0 575.0)">
+<rect x="87" y="464" width="220" height="240" rx="4" fill="#170003" opacity=".35"/>
+<rect x="80" y="455" width="220" height="240" rx="3" fill="#FFFFFF" stroke="#170003" stroke-width="4"/>
+<line x1="84" y1="479" x2="296" y2="479" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="497" x2="296" y2="497" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="515" x2="296" y2="515" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="533" x2="296" y2="533" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="551" x2="296" y2="551" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="569" x2="296" y2="569" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="587" x2="296" y2="587" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="605" x2="296" y2="605" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="623" x2="296" y2="623" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="641" x2="296" y2="641" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="659" x2="296" y2="659" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="84" y1="677" x2="296" y2="677" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="110" y1="458" x2="110" y2="692" stroke="#FF0000" stroke-width="1.5" opacity=".6"/>
+<circle cx="94" cy="473" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="94" cy="495" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="94" cy="517" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="94" cy="539" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="94" cy="561" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="94" cy="583" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="94" cy="605" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="94" cy="627" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="94" cy="649" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="94" cy="671" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<text x="120" y="501.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Trajetória</text>
+<text x="120" y="525.9" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">Head of Marketing &amp;</text>
+<text x="120" y="544.7" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">Context Engineering</text>
 </g>
 <g id="irrita" transform="rotate(-3 425.0 555.0)">
 <rect x="337" y="479" width="190" height="170" rx="4" fill="#170003" opacity=".35"/>
 <path d="M330 470 H520 V614 L494 640 H330 Z" fill="#F2C8BA" stroke="#170003" stroke-width="4" stroke-linejoin="round"/>
 <path d="M520 614 H494 V640 Z" fill="#170003" opacity=".25" stroke="#170003" stroke-width="3" stroke-linejoin="round"/>
-<text x="346" y="516" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">O que me irrita</text>
-<text x="346" y="540" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">rotina rígida, culpa,</text>
-<text x="346" y="559" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">sistemas complexos e</text>
-<text x="346" y="578" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">coisas sem graça</text>
+<text x="346" y="516.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="16" fill="#170003">O que me irrita</text>
+<text x="346" y="540.9" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">rotina rígida,</text>
+<text x="346" y="559.7" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">culpa, sistemas</text>
+<text x="346" y="578.5" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">complexos e coisas</text>
+<text x="346" y="597.4" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">sem graça</text>
 </g>
 <g id="espm" transform="rotate(4 660.0 635.0)">
 <rect x="567" y="569" width="200" height="150" rx="4" fill="#170003" opacity=".35"/>
 <path d="M560 560 H760 V684 L734 710 H560 Z" fill="#E3E0CC" stroke="#170003" stroke-width="4" stroke-linejoin="round"/>
 <path d="M760 684 H734 V710 Z" fill="#170003" opacity=".25" stroke="#170003" stroke-width="3" stroke-linejoin="round"/>
 <rect x="626.0" y="548" width="68" height="24" fill="#ECECEC" opacity=".85" stroke="#170003" stroke-width="2" transform="rotate(-6 660.0 560)"/>
-<text x="576" y="606" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">ESPM</text>
-<text x="576" y="630" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">uma LLM wiki</text>
-<text x="576" y="649" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">estruturada; antes eu</text>
-<text x="576" y="668" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">fazia wikis sozinha</text>
+<text x="576" y="606.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">ESPM</text>
+<text x="576" y="630.9" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">uma LLM wiki</text>
+<text x="576" y="649.7" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">estruturada; antes</text>
+<text x="576" y="668.5" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">eu fazia wikis</text>
+<text x="576" y="687.4" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">sozinha</text>
 </g>
 <g id="tese" transform="rotate(-2 672.5 245.0)">
 <rect x="557" y="159" width="245" height="190" rx="4" fill="#170003" opacity=".35"/>
 <path d="M550 150 H795 V314 L769 340 H550 Z" fill="#FF0000" stroke="#170003" stroke-width="4" stroke-linejoin="round"/>
 <path d="M795 314 H769 V340 Z" fill="#170003" opacity=".25" stroke="#170003" stroke-width="3" stroke-linejoin="round"/>
-<text x="566" y="196" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#FFFFFF">Caos criativo organizado</text>
-<text x="566" y="220" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">ferramentas leves para</text>
-<text x="566" y="239" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">cabeças inquietas darem forma</text>
-<text x="566" y="258" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">às ideias</text>
+<text x="566" y="196.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="15" fill="#FFFFFF">Caos criativo</text>
+<text x="566" y="213.25" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="15" fill="#FFFFFF">organizado</text>
+<text x="566" y="238.1" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">ferramentas leves para</text>
+<text x="566" y="256.9" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">cabeças inquietas darem</text>
+<text x="566" y="275.8" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">forma às ideias</text>
 </g>
-<g id="nome" transform="rotate(5 920.0 260.0)">
-<rect x="837" y="149" width="180" height="240" rx="4" fill="#170003" opacity=".35"/>
-<rect x="830" y="140" width="180" height="240" rx="3" fill="#FFFFFF" stroke="#170003" stroke-width="4"/>
-<rect x="844" y="154" width="152" height="142" fill="#FFFFFF" stroke="#170003" stroke-width="2"/>
-<svg x="848" y="158" width="144" height="134" viewBox="0 0 1470 1225" preserveAspectRatio="xMidYMid meet">
+<g id="nome" transform="rotate(5 925.0 257.5)">
+<rect x="837" y="139" width="190" height="255" rx="4" fill="#170003" opacity=".35"/>
+<rect x="830" y="130" width="190" height="255" rx="3" fill="#FFFFFF" stroke="#170003" stroke-width="4"/>
+<rect x="844" y="144" width="162" height="137" fill="#FFFFFF" stroke="#170003" stroke-width="2"/>
+<svg x="848" y="148" width="154" height="129" viewBox="0 0 1470 1225" preserveAspectRatio="xMidYMid meet">
 
 <defs><linearGradient id="sombra-quadro" x1="880" x2="1420" y1="0" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#361F36" stop-opacity="0.63"/><stop offset="1" stop-color="#361F36" stop-opacity="0"/></linearGradient></defs>
 <polygon points="880,1159 900,1137 920,1116 940,1094 960,1073 980,1051 1000,1030 1020,1008 1040,963 1060,979 1080,978 1100,976 1120,974 1140,973 1160,971 1180,970 1200,968 1220,967 1240,965 1260,963 1280,962 1300,960 1320,959 1340,957 1360,955 1380,954 1400,952 1420,951 1420,1171 1400,1191 1380,1190 1360,1189 1340,1188 1320,1187 1300,1186 1280,1185 1260,1184 1240,1183 1220,1182 1200,1181 1180,1180 1160,1179 1140,1179 1120,1178 1100,1177 1080,1176 1060,1175 1040,1174 1020,1173 1000,1172 980,1171 960,1170 940,1169 920,1168 900,1168 880,1167" fill="url(#sombra-quadro)"/>
@@ -340,79 +343,81 @@
 <path d="M0 0 C6 7.71 6 7.71 6 13 C9.63 13 13.26 13 17 13 C17 13.33 17 13.66 17 14 C13.7 14 10.4 14 7 14 C7.01 15.34 7.02 16.67 7.04 18.05 C7.04 19.8 7.05 21.56 7.06 23.31 C7.07 24.19 7.08 25.07 7.09 25.98 C7.09 26.83 7.09 27.68 7.1 28.55 C7.1 29.33 7.11 30.11 7.11 30.92 C7 33 7 33 6 36 C5.34 36 4.68 36 4 36 C3.99 35.66 3.99 35.66 3.96 33.92 C3.88 30.78 3.78 27.64 3.69 24.5 C3.66 23.42 3.64 22.34 3.62 21.23 C3.4 14.77 2.5 9.94 0 4 C0 2.68 0 1.36 0 0 Z " fill="#796562" transform="translate(1100,238)"/>
 <path d="M0 0 C9.89 1.14 18.86 3.01 25.62 10.81 C26.41 11.86 27.19 12.92 28 14 C27.01 14.33 26.02 14.66 25 15 C23.56 13.93 23.56 13.93 22 12.31 C16.35 7.2 9.41 4.77 1.81 4.75 C1.18 4.79 1.18 4.79 -2 5 C-1.34 3.35 -0.68 1.7 0 0 Z " fill="#2A100D" transform="translate(342,514)"/>
 </svg>
-<text x="846" y="320" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Por que PopKore</text>
-<text x="846" y="344" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">pipoca + cérebro</text>
+<text x="846" y="305.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="16" fill="#170003">Por que PopKore</text>
+<text x="846" y="329.9" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">pipoca + cérebro</text>
 </g>
 <g id="publico" transform="rotate(-4 922.5 465.0)">
 <rect x="822" y="394" width="215" height="160" rx="4" fill="#170003" opacity=".35"/>
 <path d="M815 385 H1030 V519 L1004 545 H815 Z" fill="#C79FBC" stroke="#170003" stroke-width="4" stroke-linejoin="round"/>
 <path d="M1030 519 H1004 V545 Z" fill="#170003" opacity=".25" stroke="#170003" stroke-width="3" stroke-linejoin="round"/>
 <rect x="888.5" y="373" width="68" height="24" fill="#ECECEC" opacity=".85" stroke="#170003" stroke-width="2" transform="rotate(-6 922.5 385)"/>
-<text x="831" y="431" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Pessoas descoladas</text>
-<text x="831" y="455" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">builders, makers,</text>
-<text x="831" y="474" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">criativas, ND, marketing</text>
-<text x="831" y="493" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">e quem quer IA na rotina</text>
+<text x="831" y="431.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="16" fill="#170003">Pessoas descoladas</text>
+<text x="831" y="455.9" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">builders, makers,</text>
+<text x="831" y="474.7" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">criativas, ND,</text>
+<text x="831" y="493.6" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">marketing e quem quer</text>
+<text x="831" y="512.4" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">IA na rotina</text>
 </g>
-<g id="produto" transform="rotate(-3 1160.0 270.0)">
-<rect x="1077" y="159" width="180" height="240" rx="4" fill="#170003" opacity=".35"/>
-<rect x="1070" y="150" width="180" height="240" rx="3" fill="#FFFFFF" stroke="#170003" stroke-width="4"/>
-<rect x="1084" y="164" width="152" height="142" fill="#170003"/>
-<text x="1160.0" y="249.0" text-anchor="middle" font-size="44" fill="#CB788D" font-family="Atkinson Hyperlegible Next, Arial, sans-serif">+</text>
-<text x="1086" y="330" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Primeiro produto</text>
-<text x="1086" y="354" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">print do primeiro</text>
-<text x="1086" y="373" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">template ou curso</text>
+<g id="produto" transform="rotate(-3 1165.0 275.0)">
+<rect x="1077" y="149" width="190" height="270" rx="4" fill="#170003" opacity=".35"/>
+<rect x="1070" y="140" width="190" height="270" rx="3" fill="#FFFFFF" stroke="#170003" stroke-width="4"/>
+<rect x="1084" y="154" width="162" height="152" fill="#170003"/>
+<text x="1165.0" y="244.0" text-anchor="middle" font-size="44" fill="#CB788D" font-family="Atkinson Hyperlegible Next, Arial, sans-serif">+</text>
+<text x="1086" y="330.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="15" fill="#170003">Primeiro produto</text>
+<text x="1086" y="354.9" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">print do primeiro</text>
+<text x="1086" y="373.7" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">template ou curso</text>
 </g>
-<g id="catalogo" transform="rotate(3 1170.0 565.0)">
-<rect x="1077" y="459" width="200" height="230" rx="4" fill="#170003" opacity=".35"/>
-<rect x="1070" y="450" width="200" height="230" rx="3" fill="#FFFFFF" stroke="#170003" stroke-width="4"/>
-<line x1="1074" y1="474" x2="1266" y2="474" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="492" x2="1266" y2="492" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="510" x2="1266" y2="510" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="528" x2="1266" y2="528" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="546" x2="1266" y2="546" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="564" x2="1266" y2="564" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="582" x2="1266" y2="582" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="600" x2="1266" y2="600" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="618" x2="1266" y2="618" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="636" x2="1266" y2="636" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="654" x2="1266" y2="654" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1074" y1="672" x2="1266" y2="672" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
-<line x1="1100" y1="453" x2="1100" y2="677" stroke="#FF0000" stroke-width="1.5" opacity=".6"/>
-<circle cx="1084" cy="468" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="1084" cy="490" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="1084" cy="512" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="1084" cy="534" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="1084" cy="556" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="1084" cy="578" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="1084" cy="600" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="1084" cy="622" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="1084" cy="644" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<circle cx="1084" cy="666" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
-<text x="1110" y="496" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Catálogo</text>
-<text x="1110" y="520" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">planejado: Notion,</text>
-<text x="1110" y="539" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">cursos,</text>
-<text x="1110" y="558" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">infoprodutos,</text>
-<text x="1110" y="577" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">skills, plugins e IA</text>
+<g id="catalogo" transform="rotate(3 1170.0 580.0)">
+<rect x="1077" y="474" width="200" height="230" rx="4" fill="#170003" opacity=".35"/>
+<rect x="1070" y="465" width="200" height="230" rx="3" fill="#FFFFFF" stroke="#170003" stroke-width="4"/>
+<line x1="1074" y1="489" x2="1266" y2="489" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="507" x2="1266" y2="507" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="525" x2="1266" y2="525" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="543" x2="1266" y2="543" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="561" x2="1266" y2="561" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="579" x2="1266" y2="579" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="597" x2="1266" y2="597" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="615" x2="1266" y2="615" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="633" x2="1266" y2="633" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="651" x2="1266" y2="651" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="669" x2="1266" y2="669" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1074" y1="687" x2="1266" y2="687" stroke="#C79FBC" stroke-width="1.2" opacity=".6"/>
+<line x1="1100" y1="468" x2="1100" y2="692" stroke="#FF0000" stroke-width="1.5" opacity=".6"/>
+<circle cx="1084" cy="483" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="1084" cy="505" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="1084" cy="527" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="1084" cy="549" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="1084" cy="571" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="1084" cy="593" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="1084" cy="615" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="1084" cy="637" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="1084" cy="659" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<circle cx="1084" cy="681" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
+<text x="1110" y="511.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Catálogo</text>
+<text x="1110" y="535.9" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">planejado:</text>
+<text x="1110" y="554.7" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">Notion, cursos,</text>
+<text x="1110" y="573.5" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">infoprodutos,</text>
+<text x="1110" y="592.4" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">skills, plugins e</text>
+<text x="1110" y="611.2" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">IA</text>
 </g>
-<g id="provas" transform="rotate(-2 925.0 655.0)">
-<rect x="807" y="589" width="250" height="150" rx="4" fill="#170003" opacity=".35"/>
-<rect x="800" y="580" width="250" height="150" rx="3" fill="#E3E0CC" stroke="#170003" stroke-width="4"/>
-<path d="M800 580 L925.0 662.5 L1050 580" fill="none" stroke="#170003" stroke-width="3"/>
-<text x="816" y="677.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Provas</text>
-<text x="816" y="701.0" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">depoimentos e resultados</text>
-<text x="816" y="720.0" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">(com permissão)</text>
-<rect x="1002" y="690" width="26" height="26" rx="6" fill="none" stroke="#170003" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>
+<g id="provas" transform="rotate(-2 922.5 657.5)">
+<rect x="802" y="579" width="255" height="175" rx="4" fill="#170003" opacity=".35"/>
+<rect x="795" y="570" width="255" height="175" rx="3" fill="#E3E0CC" stroke="#170003" stroke-width="4"/>
+<path d="M795 570 L922.5 640.0 L1050 570" fill="none" stroke="#170003" stroke-width="3"/>
+<text x="811" y="666.0" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Provas</text>
+<text x="811" y="690.9" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">depoimentos e resultados</text>
+<text x="811" y="709.7" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">(com permissão)</text>
+<rect x="1010" y="647.0" width="24" height="24" rx="6" fill="none" stroke="#170003" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>
 </g>
-<g class="pino"><circle cx="155.04776199316973" cy="160.27769827038003" r="11" fill="#170003" opacity=".35"/><circle cx="152.04776199316973" cy="156.27769827038003" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="149.04776199316973" cy="153.27769827038003" r="3.5" fill="#fff" opacity=".8"/></g>
+<g class="pino"><circle cx="159.17580607136816" cy="155.30814764213224" r="11" fill="#170003" opacity=".35"/><circle cx="156.17580607136816" cy="151.30814764213224" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="153.17580607136816" cy="148.30814764213224" r="3.5" fill="#fff" opacity=".8"/></g>
 <g class="pino"><circle cx="402.13454054319254" cy="140.10826675438867" r="11" fill="#170003" opacity=".35"/><circle cx="399.13454054319254" cy="136.10826675438867" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="396.13454054319254" cy="133.10826675438867" r="3.5" fill="#fff" opacity=".8"/></g>
-<g class="pino"><circle cx="196.97854262408512" cy="450.0694457198231" r="11" fill="#170003" opacity=".35"/><circle cx="193.97854262408512" cy="446.0694457198231" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="190.97854262408512" cy="443.0694457198231" r="3.5" fill="#fff" opacity=".8"/></g>
+<g class="pino"><circle cx="196.97854262408512" cy="465.0694457198231" r="11" fill="#170003" opacity=".35"/><circle cx="193.97854262408512" cy="461.0694457198231" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="190.97854262408512" cy="458.0694457198231" r="3.5" fill="#fff" opacity=".8"/></g>
 <g class="pino"><circle cx="423.86545945680746" cy="480.10826675438864" r="11" fill="#170003" opacity=".35"/><circle cx="420.86545945680746" cy="476.10826675438864" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="417.86545945680746" cy="473.10826675438864" r="3.5" fill="#fff" opacity=".8"/></g>
 <g class="pino"><circle cx="667.8131966883446" cy="570.1680805320722" r="11" fill="#170003" opacity=".35"/><circle cx="664.8131966883446" cy="566.1680805320722" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="661.8131966883446" cy="563.1680805320722" r="3.5" fill="#fff" opacity=".8"/></g>
 <g class="pino"><circle cx="672.3939447934774" cy="160.05421639530047" r="11" fill="#170003" opacity=".35"/><circle cx="669.3939447934774" cy="156.05421639530047" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="666.3939447934774" cy="153.05421639530047" r="3.5" fill="#fff" opacity=".8"/></g>
-<g class="pino"><circle cx="932.9357546732331" cy="150.433804417541" r="11" fill="#170003" opacity=".35"/><circle cx="929.9357546732331" cy="146.433804417541" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="926.9357546732331" cy="143.433804417541" r="3.5" fill="#fff" opacity=".8"/></g>
+<g class="pino"><circle cx="938.5894227438405" cy="140.46234418185293" r="11" fill="#170003" opacity=".35"/><circle cx="935.5894227438405" cy="136.46234418185293" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="932.5894227438405" cy="133.46234418185293" r="3.5" fill="#fff" opacity=".8"/></g>
 <g class="pino"><circle cx="920.3380209429347" cy="395.18026028077304" r="11" fill="#170003" opacity=".35"/><circle cx="917.3380209429347" cy="391.18026028077304" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="914.3380209429347" cy="388.18026028077304" r="3.5" fill="#fff" opacity=".8"/></g>
-<g class="pino"><circle cx="1157.0337009883044" cy="160.15623303797858" r="11" fill="#170003" opacity=".35"/><circle cx="1154.0337009883044" cy="156.15623303797858" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="1151.0337009883044" cy="153.15623303797858" r="3.5" fill="#fff" opacity=".8"/></g>
-<g class="pino"><circle cx="1178.7046192304808" cy="460.14938071175146" r="11" fill="#170003" opacity=".35"/><circle cx="1175.7046192304808" cy="456.14938071175146" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="1172.7046192304808" cy="453.14938071175146" r="3.5" fill="#fff" opacity=".8"/></g>
-<g class="pino"><circle cx="925.5919347275275" cy="590.0420329356824" r="11" fill="#170003" opacity=".35"/><circle cx="922.5919347275275" cy="586.0420329356824" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="919.5919347275275" cy="583.0420329356824" r="3.5" fill="#fff" opacity=".8"/></g>
+<g class="pino"><circle cx="1161.2486616446602" cy="150.17679001665996" r="11" fill="#170003" opacity=".35"/><circle cx="1158.2486616446602" cy="146.17679001665996" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="1155.2486616446602" cy="143.17679001665996" r="3.5" fill="#fff" opacity=".8"/></g>
+<g class="pino"><circle cx="1178.7046192304808" cy="475.14938071175146" r="11" fill="#170003" opacity=".35"/><circle cx="1175.7046192304808" cy="471.14938071175146" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="1172.7046192304808" cy="468.14938071175146" r="3.5" fill="#fff" opacity=".8"/></g>
+<g class="pino"><circle cx="922.6556910187462" cy="580.0496475979437" r="11" fill="#170003" opacity=".35"/><circle cx="919.6556910187462" cy="576.0496475979437" r="11" fill="#FF0000" stroke="#170003" stroke-width="3"/><circle cx="916.6556910187462" cy="573.0496475979437" r="3.5" fill="#fff" opacity=".8"/></g>
 <g transform="translate(1240 708) rotate(-12)"><ellipse cx="0" cy="0" rx="40" ry="28" fill="#EAA993" stroke="#170003" stroke-width="5"/><path d="M-24 -6 q8 -14 18 -2 q8 -14 20 0 M-18 10 q10 -8 20 2 q8 -8 18 0" fill="none" stroke="#170003" stroke-width="3" stroke-linecap="round"/><path d="M14 18 q16 -2 24 -14 q4 14 -10 20 z" fill="#CB788D" stroke="#170003" stroke-width="3"/></g>
 </svg>
