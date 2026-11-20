@@ -35,8 +35,8 @@ related:
 ## Marca
 
 - **PopKore**: marca de conhecimento em porções rápidas (IA, ferramentas e métodos) para
-  pessoas criativas. É um projeto antigo da fundadora, que ficou parado e agora, com o curso
-  da ESPM, está ganhando forma. Ver [tese](01_tese.md) e
+  pessoas criativas. É um projeto antigo da fundadora que agora, com o curso da
+  ESPM, está ganhando forma. Ver [tese](01_tese.md) e
   [posicionamento](../02-conteudo/marca/01_posicionamento.md).
 
 ## Canais
