@@ -22,9 +22,7 @@ related:
 
 ## Notas desta seção
 
-_Ainda vazia._ Uma nota por produto (`type: reference`), com promessa, formato, público e
-`status`. **Preços e números de venda não entram aqui.**
+Uma nota por produto (`type: reference`), com promessa, formato, público e `status`.
+**Preços e números de venda não entram aqui.**
 
-- `templates-notion/`
-- `cursos-rapidos/`
-- `infoprodutos/`
+1. [Skill Quadro de Evidências](01_skill-quadro-de-evidencias.md): primeiro produto, gratuito, para Claude e ChatGPT, entrega um story 9:16. Em definição.

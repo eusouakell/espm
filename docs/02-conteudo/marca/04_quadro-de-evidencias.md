@@ -38,11 +38,11 @@ mostram como a história da fundadora sustenta a marca.
 | Caos criativo organizado | PopKore | a tese em uma frase | preenchido | [tese](../../01-base/01_tese.md) |
 | Por que PopKore | PopKore | de onde vem o nome | preenchido | [logo e nome](03_identidade-visual.md) |
 | Pessoas descoladas | PopKore | quem é, o que sente, como fala | preenchido | Builders, makers e empreendedoras; criativas e freelancers; pessoas neurodivergentes; estudantes e jovens profissionais; profissionais de marketing; pessoas que querem trazer IA para a rotina. (fundadora, 2026-11-19) |
-| Primeiro produto | PopKore | print do primeiro template ou curso | vazio | Ainda não existe (2026-11-19). |
+| Primeiro produto | PopKore | print do primeiro template ou curso | definido, em construção | [Skill Quadro de Evidências](../produtos/01_skill-quadro-de-evidencias.md), gratuita, para Claude e ChatGPT. Falta o print do produto pronto. (2026-11-19) |
 | Catálogo | PopKore | templates, cursos rápidos, infoprodutos | preenchido (planejado) | Linhas planejadas, nenhuma lançada: templates de Notion, cursos rápidos, infoprodutos, skills, plugins e artefatos, IA na rotina. (fundadora, 2026-11-19) |
 | Provas | PopKore | depoimentos e resultados | vazio | |
 
-**Cobertura atual: 9 de 11.** Faltam: Primeiro produto e Provas, que dependem de a PopKore lançar algo.
+**Cobertura atual: 9 de 11.** Faltam: o print do primeiro produto, que já foi definido, e Provas, que depende do lançamento.
 
 ## Fios (ligações)
 

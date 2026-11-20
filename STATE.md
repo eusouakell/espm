@@ -20,7 +20,7 @@ related:
 ## Em uma frase
 
 A marca PopKore já tem tese, léxico, identidade visual, voz e tom e um quadro de evidências;
-o posicionamento foi aprovado e ainda não existe primeiro produto.
+o posicionamento e as personas foram aprovados e o primeiro produto foi definido.
 
 ## Frentes ativas
 
@@ -33,8 +33,10 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
   espaços.
 - **Público**: [personas](docs/02-conteudo/publico/01_personas.md) ativas; persona
   principal: profissional de qualquer área que precisa de IA "o suficiente".
-- **Produtos e canais**: seções vazias. Próximo gate: definir o primeiro produto para a
-  persona principal.
+- **Primeiro produto**: [skill Quadro de Evidências](docs/02-conteudo/produtos/01_skill-quadro-de-evidencias.md)
+  (gratuita, Claude e ChatGPT, story 9:16), em rascunho. Próximo gate: a fundadora aprova a
+  nota; depois, protótipo da versão Claude.
+- **Canais**: seção vazia. Próximo gate: plano de lançamento do primeiro produto.
 
 ## Decisões vigentes
 
@@ -48,8 +50,8 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
 
 ## Riscos e bloqueios
 
-- A PopKore ainda não tem primeiro produto: sem ele, o quadro não fecha a ponta "Provas" e as
-  seções de produtos e canais ficam sem assunto.
+- O primeiro produto está definido, mas não construído: sem lançamento, o quadro não fecha a
+  ponta "Provas".
 - Repositório público com commit direto sem revisão: risco de vazar dado sensível.
   Mitigação: rodar `python scripts/audit-kb.py` e revisar o diff antes de cada push.
 - Vários agentes (Claude, ChatGPT/Codex, Gemini, Jev, Cursor) escrevendo: risco de vozes
@@ -62,5 +64,5 @@ o posicionamento foi aprovado e ainda não existe primeiro produto.
 
 ## Próxima revisão
 
-- **Data ou gatilho:** quando o primeiro produto for definido
+- **Data ou gatilho:** quando o protótipo da skill existir
 - **Responsável:** fundadora

@@ -38,7 +38,7 @@ CARTOES = [
     ("tese", "postit", 550, 150, 245, 190, -2, "pop", "PopKore", "Caos criativo organizado", "ferramentas leves para cabeças inquietas darem forma às ideias", True),
     ("nome", "polaroid", 830, 130, 190, 255, 5, "branco", "PopKore", "Por que PopKore", "pipoca + cérebro", True),
     ("publico", "nota", 815, 385, 215, 160, -4, "lilas", "PopKore", "Pessoas descoladas", "builders, makers, criativas, ND, marketing e quem quer IA na rotina", True),
-    ("produto", "polaroid", 1070, 140, 190, 270, -3, "branco", "PopKore", "Primeiro produto", "print do primeiro template ou curso", False),
+    ("produto", "polaroid", 1070, 140, 190, 270, -3, "branco", "PopKore", "Primeiro produto", "skill Quadro de Evidências, em construção", False),
     ("catalogo", "folha", 1070, 465, 200, 230, 3, "branco", "PopKore", "Catálogo", "planejado: Notion, cursos, infoprodutos, skills, plugins e IA", True),
     ("provas", "envelope", 795, 570, 255, 175, -2, "creme", "PopKore", "Provas", "depoimentos e resultados (com permissão)", False),
 ]
