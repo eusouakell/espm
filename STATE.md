@@ -28,7 +28,7 @@ vazio.
   ativos; entidades em rascunho. Próximo gate: a fundadora revisa as
   [entidades](docs/01-base/03_entidades.md).
 - **Conteúdo da marca**: [identidade visual](docs/02-conteudo/marca/03_identidade-visual.md)
-  e [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) ativas; quadro de evidências criado.
+  e [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) ativas; [quadro de evidências](docs/02-conteudo/marca/04_quadro-de-evidencias.md) com 8 de 11 espaços.
   Próximo gate: posicionamento.
 
 ## Decisões vigentes
@@ -39,6 +39,8 @@ vazio.
   LGPD/GDPR no Git.
 
 ## Riscos e bloqueios
+
+- A PopKore ainda não tem primeiro produto: sem ele, o quadro não fecha a ponta "Provas".
 
 - Commit direto sem revisão: o risco de vazar dado sensível aumenta. Mitigação: rodar
   `python scripts/audit-kb.py` e revisar o diff antes de cada push.

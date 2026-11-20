@@ -31,18 +31,18 @@ mostram como a história da fundadora sustenta a marca.
 | Espaço | Lado | Pergunta | Estado | Evidência |
 | --- | --- | --- | --- | --- |
 | Foto minha | Quem sou eu | uma foto que diga quem eu sou | vazio | |
-| Meu cérebro | Quem sou eu | como minha cabeça funciona, em 1ª pessoa | vazio | |
-| Trajetória | Quem sou eu | de onde eu vim e o que me trouxe até aqui | vazio | |
-| O que me irrita | Quem sou eu | o que me incomoda na produtividade tradicional | vazio | |
-| ESPM | Quem sou eu | o que o curso me deu para a marca | vazio | |
+| Meu cérebro | Quem sou eu | como minha cabeça funciona, em 1ª pessoa | preenchido | Preciso aprender em profundidade, tenho mil abas abertas, começo tudo e termino pouco, entro em hiperfoco e preciso ver para lembrar. (fundadora, 2026-11-19) |
+| Trajetória | Quem sou eu | de onde eu vim e o que me trouxe até aqui | preenchido | Head of Marketing & Context Engineering. (fundadora, 2026-11-19) |
+| O que me irrita | Quem sou eu | o que me incomoda na produtividade tradicional | preenchido | Coisas chatas e sem graça, rotina rígida, culpa e disciplina, sistemas complexos demais e tudo feito para cérebros típicos. (fundadora, 2026-11-19) |
+| ESPM | Quem sou eu | o que o curso me deu para a marca | preenchido | Já tinha wikis próprias, feitas de forma autodidata; no curso está experimentando esta LLM wiki, um repositório estruturado por outra pessoa. (fundadora, 2026-11-19) |
 | Caos criativo organizado | PopKore | a tese em uma frase | preenchido | [tese](../../01-base/01_tese.md) |
 | Por que PopKore | PopKore | de onde vem o nome | preenchido | [logo e nome](03_identidade-visual.md) |
-| Pessoas descoladas | PopKore | quem é, o que sente, como fala | vazio | |
-| Primeiro produto | PopKore | print do primeiro template ou curso | vazio | |
-| Catálogo | PopKore | templates, cursos rápidos, infoprodutos | vazio | |
+| Pessoas descoladas | PopKore | quem é, o que sente, como fala | preenchido | Builders, makers e empreendedoras; criativas e freelancers; pessoas neurodivergentes; estudantes e jovens profissionais; profissionais de marketing; pessoas que querem trazer IA para a rotina. (fundadora, 2026-11-19) |
+| Primeiro produto | PopKore | print do primeiro template ou curso | vazio | Ainda não existe (2026-11-19). |
+| Catálogo | PopKore | templates, cursos rápidos, infoprodutos | preenchido (planejado) | Linhas planejadas, nenhuma lançada: templates de Notion, cursos rápidos, infoprodutos, skills, plugins e artefatos, IA na rotina. (fundadora, 2026-11-19) |
 | Provas | PopKore | depoimentos e resultados | vazio | |
 
-**Cobertura atual: 2 de 11.**
+**Cobertura atual: 8 de 11.** Faltam: Foto minha, Primeiro produto e Provas.
 
 ## Fios (ligações)
 

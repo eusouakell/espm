@@ -30,15 +30,15 @@ COR = {
 # id, tipo, x, y, largura, altura, rotação, cor, grupo, título, pergunta, preenchido
 CARTOES = [
     ("foto", "polaroid", 70, 150, 180, 240, -4, "branco", "Quem sou eu", "Foto minha", "uma foto que diga quem eu sou", False),
-    ("cerebro", "postit", 300, 130, 190, 170, 3, "pessego", "Quem sou eu", "Meu cérebro", "como minha cabeça funciona, em 1ª pessoa", False),
-    ("trajetoria", "folha", 80, 440, 220, 240, 2, "branco", "Quem sou eu", "Trajetória", "de onde eu vim e o que me trouxe até aqui", False),
-    ("irrita", "postit", 330, 470, 190, 170, -3, "rosa", "Quem sou eu", "O que me irrita", "na produtividade tradicional", False),
-    ("espm", "nota", 560, 560, 200, 150, 4, "creme", "Quem sou eu", "ESPM", "o que o curso me deu para a marca", False),
+    ("cerebro", "postit", 300, 130, 190, 170, 3, "pessego", "Quem sou eu", "Meu cérebro", "mil abas abertas, hiperfoco, aprendo em profundidade e preciso ver para lembrar", True),
+    ("trajetoria", "folha", 80, 440, 220, 240, 2, "branco", "Quem sou eu", "Trajetória", "Head of Marketing & Context Engineering", True),
+    ("irrita", "postit", 330, 470, 190, 170, -3, "rosa", "Quem sou eu", "O que me irrita", "rotina rígida, culpa, sistemas complexos e coisas sem graça", True),
+    ("espm", "nota", 560, 560, 200, 150, 4, "creme", "Quem sou eu", "ESPM", "uma LLM wiki estruturada; antes eu fazia wikis sozinha", True),
     ("tese", "postit", 550, 150, 245, 190, -2, "pop", "PopKore", "Caos criativo organizado", "ferramentas leves para cabeças inquietas darem forma às ideias", True),
     ("nome", "polaroid", 830, 140, 180, 240, 5, "branco", "PopKore", "Por que PopKore", "pipoca + cérebro", True),
-    ("publico", "nota", 815, 385, 215, 160, -4, "lilas", "PopKore", "Pessoas descoladas", "quem é, o que sente, como fala", False),
+    ("publico", "nota", 815, 385, 215, 160, -4, "lilas", "PopKore", "Pessoas descoladas", "builders, makers, criativas, ND, marketing e quem quer IA na rotina", True),
     ("produto", "polaroid", 1070, 150, 180, 240, -3, "branco", "PopKore", "Primeiro produto", "print do primeiro template ou curso", False),
-    ("catalogo", "folha", 1070, 450, 200, 230, 3, "branco", "PopKore", "Catálogo", "templates, cursos rápidos, infoprodutos", False),
+    ("catalogo", "folha", 1070, 450, 200, 230, 3, "branco", "PopKore", "Catálogo", "planejado: Notion, cursos, infoprodutos, skills, plugins e IA", True),
     ("provas", "envelope", 800, 580, 250, 150, -2, "creme", "PopKore", "Provas", "depoimentos e resultados (com permissão)", False),
 ]
 
@@ -118,9 +118,13 @@ def cartao(c):
             out.append(f'<rect x="{cx - 34}" y="{y - 12}" width="68" height="24" fill="{COR["branco"]}" opacity=".85" stroke="{COR["contorno"]}" stroke-width="2" transform="rotate(-6 {cx} {y})"/>')
     tx = x + (40 if tipo == "folha" else 16)
     out.append(f'<text x="{tx}" y="{texto_y}" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="{tinta}">{escape(titulo)}</text>')
-    largura_chars = max(12, int((w - (56 if tipo == "folha" else 32)) / 8.2))
+    largura_chars = max(12, int((w - (56 if tipo == "folha" else 32)) / (7.2 if cheio else 7.8)))
     estilo = 'font-style="normal"' if cheio else 'font-style="italic" opacity=".75"'
-    for i, linha in enumerate(quebra(pergunta, largura_chars)[:4]):
+    max_linhas = max(2, int((y + h - 14 - (texto_y + 24)) / 19) + 1)
+    linhas = quebra(pergunta, largura_chars)
+    if len(linhas) > max_linhas:
+        raise SystemExit(f"texto de '{cid}' não cabe: {len(linhas)} linhas, máximo {max_linhas}. Encurte o texto.")
+    for i, linha in enumerate(linhas):
         out.append(f'<text x="{tx}" y="{texto_y + 24 + i * 19}" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" {estilo} fill="{tinta}">{escape(linha)}</text>')
     if not cheio and tipo != "polaroid":
         out.append(f'<rect x="{x + w - 48}" y="{y + h - 50 if tipo in ("postit", "nota") else y + h - 40}" width="26" height="26" rx="6" fill="none" stroke="{tinta}" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>')

@@ -45,10 +45,11 @@
 <path d="M300 130 H490 V274 L464 300 H300 Z" fill="#EAA993" stroke="#170003" stroke-width="4" stroke-linejoin="round"/>
 <path d="M490 274 H464 V300 Z" fill="#170003" opacity=".25" stroke="#170003" stroke-width="3" stroke-linejoin="round"/>
 <text x="316" y="176" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Meu cérebro</text>
-<text x="316" y="200" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">como minha cabeça</text>
-<text x="316" y="219" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">funciona, em 1ª</text>
-<text x="316" y="238" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">pessoa</text>
-<rect x="442" y="250" width="26" height="26" rx="6" fill="none" stroke="#170003" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>
+<text x="316" y="200" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">mil abas abertas,</text>
+<text x="316" y="219" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">hiperfoco, aprendo em</text>
+<text x="316" y="238" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">profundidade e</text>
+<text x="316" y="257" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">preciso ver para</text>
+<text x="316" y="276" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">lembrar</text>
 </g>
 <g id="trajetoria" transform="rotate(2 190.0 560.0)">
 <rect x="87" y="449" width="220" height="240" rx="4" fill="#170003" opacity=".35"/>
@@ -77,19 +78,17 @@
 <circle cx="94" cy="634" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
 <circle cx="94" cy="656" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
 <text x="120" y="486" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Trajetória</text>
-<text x="120" y="510" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">de onde eu vim e o</text>
-<text x="120" y="529" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">que me trouxe até</text>
-<text x="120" y="548" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">aqui</text>
-<rect x="252" y="640" width="26" height="26" rx="6" fill="none" stroke="#170003" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>
+<text x="120" y="510" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">Head of Marketing &amp;</text>
+<text x="120" y="529" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">Context Engineering</text>
 </g>
 <g id="irrita" transform="rotate(-3 425.0 555.0)">
 <rect x="337" y="479" width="190" height="170" rx="4" fill="#170003" opacity=".35"/>
 <path d="M330 470 H520 V614 L494 640 H330 Z" fill="#F2C8BA" stroke="#170003" stroke-width="4" stroke-linejoin="round"/>
 <path d="M520 614 H494 V640 Z" fill="#170003" opacity=".25" stroke="#170003" stroke-width="3" stroke-linejoin="round"/>
 <text x="346" y="516" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">O que me irrita</text>
-<text x="346" y="540" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">na produtividade</text>
-<text x="346" y="559" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">tradicional</text>
-<rect x="472" y="590" width="26" height="26" rx="6" fill="none" stroke="#170003" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>
+<text x="346" y="540" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">rotina rígida, culpa,</text>
+<text x="346" y="559" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">sistemas complexos e</text>
+<text x="346" y="578" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">coisas sem graça</text>
 </g>
 <g id="espm" transform="rotate(4 660.0 635.0)">
 <rect x="567" y="569" width="200" height="150" rx="4" fill="#170003" opacity=".35"/>
@@ -97,9 +96,9 @@
 <path d="M760 684 H734 V710 Z" fill="#170003" opacity=".25" stroke="#170003" stroke-width="3" stroke-linejoin="round"/>
 <rect x="626.0" y="548" width="68" height="24" fill="#ECECEC" opacity=".85" stroke="#170003" stroke-width="2" transform="rotate(-6 660.0 560)"/>
 <text x="576" y="606" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">ESPM</text>
-<text x="576" y="630" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">o que o curso me deu</text>
-<text x="576" y="649" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">para a marca</text>
-<rect x="712" y="660" width="26" height="26" rx="6" fill="none" stroke="#170003" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>
+<text x="576" y="630" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">uma LLM wiki</text>
+<text x="576" y="649" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">estruturada; antes eu</text>
+<text x="576" y="668" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">fazia wikis sozinha</text>
 </g>
 <g id="tese" transform="rotate(-2 672.5 245.0)">
 <rect x="557" y="159" width="245" height="190" rx="4" fill="#170003" opacity=".35"/>
@@ -107,8 +106,8 @@
 <path d="M795 314 H769 V340 Z" fill="#170003" opacity=".25" stroke="#170003" stroke-width="3" stroke-linejoin="round"/>
 <text x="566" y="196" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#FFFFFF">Caos criativo organizado</text>
 <text x="566" y="220" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">ferramentas leves para</text>
-<text x="566" y="239" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">cabeças inquietas darem</text>
-<text x="566" y="258" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">forma às ideias</text>
+<text x="566" y="239" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">cabeças inquietas darem forma</text>
+<text x="566" y="258" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#FFFFFF">às ideias</text>
 </g>
 <g id="nome" transform="rotate(5 920.0 260.0)">
 <rect x="837" y="149" width="180" height="240" rx="4" fill="#170003" opacity=".35"/>
@@ -350,9 +349,9 @@
 <path d="M1030 519 H1004 V545 Z" fill="#170003" opacity=".25" stroke="#170003" stroke-width="3" stroke-linejoin="round"/>
 <rect x="888.5" y="373" width="68" height="24" fill="#ECECEC" opacity=".85" stroke="#170003" stroke-width="2" transform="rotate(-6 922.5 385)"/>
 <text x="831" y="431" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Pessoas descoladas</text>
-<text x="831" y="455" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">quem é, o que sente,</text>
-<text x="831" y="474" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">como fala</text>
-<rect x="982" y="495" width="26" height="26" rx="6" fill="none" stroke="#170003" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>
+<text x="831" y="455" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">builders, makers,</text>
+<text x="831" y="474" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">criativas, ND, marketing</text>
+<text x="831" y="493" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">e quem quer IA na rotina</text>
 </g>
 <g id="produto" transform="rotate(-3 1160.0 270.0)">
 <rect x="1077" y="159" width="180" height="240" rx="4" fill="#170003" opacity=".35"/>
@@ -390,10 +389,10 @@
 <circle cx="1084" cy="644" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
 <circle cx="1084" cy="666" r="4" fill="#E3E0CC" stroke="#170003" stroke-width="2"/>
 <text x="1110" y="496" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="19" fill="#170003">Catálogo</text>
-<text x="1110" y="520" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">templates, cursos</text>
-<text x="1110" y="539" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">rápidos,</text>
-<text x="1110" y="558" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="italic" opacity=".75" fill="#170003">infoprodutos</text>
-<rect x="1222" y="640" width="26" height="26" rx="6" fill="none" stroke="#170003" stroke-width="2" stroke-dasharray="4 3" opacity=".6"/>
+<text x="1110" y="520" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">planejado: Notion,</text>
+<text x="1110" y="539" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">cursos,</text>
+<text x="1110" y="558" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">infoprodutos,</text>
+<text x="1110" y="577" font-family="Atkinson Hyperlegible Next, Arial, sans-serif" font-size="14.5" font-style="normal" fill="#170003">skills, plugins e IA</text>
 </g>
 <g id="provas" transform="rotate(-2 925.0 655.0)">
 <rect x="807" y="589" width="250" height="150" rx="4" fill="#170003" opacity=".35"/>
