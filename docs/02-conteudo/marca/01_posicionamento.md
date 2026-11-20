@@ -4,7 +4,7 @@ type: reference
 category: content
 title: Posicionamento
 summary: Para quem é a PopKore, que problema resolve, por que escolhê-la e contra o que ela se coloca.
-status: draft
+status: active
 authority: canonical
 audience: [fundadora, agentes]
 owner: fundadora
@@ -19,9 +19,6 @@ related:
 ---
 
 # Posicionamento
-
-> As respostas são decisões da fundadora (2026-11-19). A declaração de posicionamento é uma
-> síntese escrita pelo Claude a partir delas: revise antes de mudar para `status: active`.
 
 ## Promessa
 

@@ -20,7 +20,7 @@ related:
 ## Em uma frase
 
 A marca PopKore já tem tese, léxico, identidade visual, voz e tom e um quadro de evidências;
-o posicionamento está em revisão e ainda não existe primeiro produto.
+o posicionamento foi aprovado e ainda não existe primeiro produto.
 
 ## Frentes ativas
 
@@ -29,9 +29,9 @@ o posicionamento está em revisão e ainda não existe primeiro produto.
   gate: atualizar e revisar as entidades.
 - **Marca**: [identidade visual](docs/02-conteudo/marca/03_identidade-visual.md) e
   [voz e tom](docs/02-conteudo/marca/02_voz-e-tom.md) ativas;
-  [posicionamento](docs/02-conteudo/marca/01_posicionamento.md) em rascunho;
+  [posicionamento](docs/02-conteudo/marca/01_posicionamento.md) ativo;
   [quadro de evidências](docs/02-conteudo/marca/04_quadro-de-evidencias.md) com 9 de 11
-  espaços. Próximo gate: a fundadora revisa o posicionamento.
+  espaços. Próximo gate: alinhar a tese ao posicionamento (IA).
 - **Público, produtos e canais**: seções vazias. Próximo gate: personas em
   [publico/](docs/02-conteudo/publico/00_mapa.md) e definição do primeiro produto.
 
@@ -62,5 +62,5 @@ o posicionamento está em revisão e ainda não existe primeiro produto.
 
 ## Próxima revisão
 
-- **Data ou gatilho:** quando o posicionamento for revisado
+- **Data ou gatilho:** quando a tese e as entidades forem revisadas
 - **Responsável:** fundadora
