@@ -48,14 +48,15 @@ related:
 | LinkedIn | [linkedin.com/in/eusouakell](https://www.linkedin.com/in/eusouakell/) | Kell | ativo |
 | Instagram | [instagram.com/eusouakell](https://www.instagram.com/eusouakell/) | Kell | ativo |
 | X | [x.com/eusouakell](https://x.com/eusouakell) | Kell | ativo |
+| TikTok | [tiktok.com/@eusouakell](https://www.tiktok.com/@eusouakell) | Kell | ativo |
+| Threads | [threads.com/@eusouakell](https://www.threads.com/@eusouakell) | Kell | ativo |
 | YouTube | [youtube.com/@eusouakell](https://www.youtube.com/@eusouakell) | Kell | ativo |
 | Medium | [medium.com/@eusouakell](https://medium.com/@eusouakell) | Kell | ativo |
 | GitHub | [github.com/eusouakell](https://github.com/eusouakell) | Kell | ativo |
 | Newsletter Cereja Flamejante | [cerejaflamejante.substack.com](https://cerejaflamejante.substack.com/) | Kell | ativo |
 | Site | [eusouakell.com.br](https://eusouakell.com.br/) | Kell | ativo |
 
-Links conferidos em 2026-11-19. TikTok e Threads não foram confirmados (o login esconde o
-perfil). O estado "ativo" é o que a fundadora informou; a frequência de cada canal ainda
+Links conferidos em 2026-11-19 (TikTok e Threads confirmados pela fundadora). O estado "ativo" é o que a fundadora informou; a frequência de cada canal ainda
 não foi levantada.
 
 Detalhes e estratégia de canais vão para
